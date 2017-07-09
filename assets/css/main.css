@@ -336,11 +336,7 @@ sm {
     left: 0%;
 }
 
-#soc ul{
- width:5em
-}
-
-#soci li{
- display:inline;
- list-style-type:none;
+#soc div
+{
+display:inline-block;
 }
