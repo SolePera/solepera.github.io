@@ -350,6 +350,7 @@ margin: 0 10px 0 0;
 
 /*Posted the CSS file from the other website*/
 
+/*
 html, body{
     font-size: 100%;
 	font-family: 'Open Sans', sans-serif;
@@ -396,7 +397,7 @@ input[type="submit"],ul.address li ul.address-text li a,.agile_about_blog_right_
 	color:#fff;
 	text-decoration:none;
 }
-/*-- Tabs --*/
+/*-- Tabs 
 
 .sap_tabs {
 	clear: both;
@@ -464,7 +465,7 @@ h2.resp-accordion {
 .resp-content-active, .resp-accordion-active {
 	display: block;
 }
-/*-- //Tabs --*/
+/*-- //Tabs 
 .wthree_tab_content img {
     margin-left:10em;
 }
@@ -574,6 +575,7 @@ ul.address li ul.address-text li a {
 ul.address li ul.address-text li a:hover{
     color: #212121;
 }
+*/
 .agileits_copyright{
 	margin:4em 0 0;
 	text-align:center;
