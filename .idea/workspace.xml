@@ -35,12 +35,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="791" />
+          <entry key="html" value="866" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="791" />
+          <entry key="HTML" value="866" />
         </counts>
       </usages-collector>
     </session>
@@ -50,14 +50,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="1123" column="51" selection-start-line="1123" selection-start-column="51" selection-end-line="1123" selection-end-column="51" />
+            <state relative-caret-position="239">
+              <caret line="594" column="84" lean-forward="true" selection-start-line="594" selection-start-column="84" selection-end-line="594" selection-end-column="84" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#2;n#b#0;n#b#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#6;n#b#0;n#b#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#6;n#b#0;n#b#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#6;n#b#0;n#b#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#7;n#b#0;n#b#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#div#7;n#b#0;n#b#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#77295#77300#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -71,6 +73,7 @@
       <find>building comm</find>
       <find>building commun</find>
       <find>kidrec</find>
+      <find>189</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -163,12 +166,12 @@
       <workItem from="1547568799922" duration="1483000" />
       <workItem from="1551500626190" duration="1434000" />
       <workItem from="1551998758312" duration="2859000" />
-      <workItem from="1553284517350" duration="1362000" />
+      <workItem from="1553284517350" duration="1602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16241000" />
+    <option name="totallyTimeSpent" value="16481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="961" extended-state="0" />
@@ -212,14 +215,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="1123" column="51" selection-start-line="1123" selection-start-column="51" selection-end-line="1123" selection-end-column="51" />
+        <state relative-caret-position="239">
+          <caret line="594" column="84" lean-forward="true" selection-start-line="594" selection-start-column="84" selection-end-line="594" selection-end-column="84" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#2;n#b#0;n#b#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#6;n#b#0;n#b#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#6;n#b#0;n#b#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#6;n#b#0;n#b#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#7;n#b#0;n#b#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#1;n#div#0;n#div#0;n#div#7;n#b#0;n#b#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#77295#77300#0" expanded="true" />
           </folding>
         </state>
       </provider>
