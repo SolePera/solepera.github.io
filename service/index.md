@@ -13,7 +13,7 @@ header:
 <h2>Conference Organization</h2>
 <ul>
 <ul>
-<li>RecSys 2020 Inclusion & Accessibility Chair</li>
+<li>RecSys 2020 - Inclusion & Accessibility Chair</li>
 <li>IDC 2019 - Social activity chair</li>
 <li>ACM RecSys 2019 - Poster and demo chair</li>
 <li>ACM RecSys 2018 - General co-chair</li>
