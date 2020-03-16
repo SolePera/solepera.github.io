@@ -6,7 +6,7 @@ type: poster
 ---
 
 {: .citation}
-  Marko Tkalcic, Maria Soledad Pera. 2019. ["ACM RecSys'19 late-breaking results (posters)"](#). In <cite> Proceedings of the 13th ACM Conference on Recommender Systems(RecSys 2019)</cite>.
+  Marko Tkalcic, Maria Soledad Pera. 2019. ["ACM RecSys'19 late-breaking results (posters)"](#). In <cite> Proceedings of the 13th ACM Conference on Recommender Systems (RecSys 2019)</cite>.
 
 
 ## Abstract

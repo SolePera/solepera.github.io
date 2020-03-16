@@ -13,6 +13,7 @@ header:
 <h2>Conference Organization</h2>
 <ul>
 <ul>
+<li>RecSys 2020 Inclusion & Accessibility Chair</li>
 <li>IDC 2019 - Social activity chair</li>
 <li>ACM RecSys 2019 - Poster and demo chair</li>
 <li>ACM RecSys 2018 - General co-chair</li>
@@ -23,16 +24,16 @@ header:
 <h2>Workshop Organization</h2>
 <ul>
 <ul>
-<li>3rd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '19 Interaction Design and Children. (https://kidrec.github.io/).</li>
-<li>2nd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '18: Interaction Design and Children. </li>
+<li>4th International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '19 Interaction Design and Children. ( <a href ="https://kidrec.github.io/">site</a> ).</li>   
+<li>3rd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '19 Interaction Design and Children. ( <a href = "https://kidrec.github.io/2019/">site</a> ).</li>
+<li>2nd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '18: Interaction Design and Children. ( <a href="https://kidrec.github.io/2018/">site</a> ) </li>
 </ul>
 </ul>
 
 <h2>Reviewer</h2>
 <ul>
 <ul>
-<li>Special Interest Group on Information Retrieval</li>
-<li>Conference on User Modeling, Adaptation and Personalization</li>
+<li>ACM Conference on User Modeling, Adaptation and Personalization</li>
 <li>ACM Conference on Recommender Systems</li>
 <li>Journal of Knowledge and Information</li>
 <li>IEEE Access Journal</li>
@@ -49,9 +50,9 @@ header:
 <h2>Program Commitee (Recent)</h2>
 <ul>
 <ul>
-    <li>ACM SIGIR 2020 (senior PC)</li> 
-    <li>RecSys 2014 / 17; 2019 (senior PC)</li>
-    <li>UMAP 2019 (http://www.cyprusconferences.org/umap2019/ ).</li>
-    <li>LA-Web (http://laweb2019.icomp.ufam.edu.br/ ).</li>
+    <li>ACM Conference on Special Interest Group on Information Retrieval 2020 (senior PC ) (<a href="https://sigir.org/sigir2020/">site</a>)</li> 
+    <li>ACM Conference on Recommender Systems 2014 / 17; 2019 (senior PC) (<a href="https://recsys.acm.org/recsys19/">site</a>)</li>
+    <li> ACM Conference on User Modeling, Adaptation, and Personalization 2019 (<a href="http://www.cyprusconferences.org/umap2019/"> site</a> ).</li>
+    <li>Latin American Web Congress 2019 (<a href="http://laweb2019.icomp.ufam.edu.br/">site</a> ).</li>
 </ul>
 </ul>

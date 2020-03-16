@@ -12,20 +12,20 @@ toc: true
 # Awards
  <hr>
 <br>
-NSF 2026 Big Idea Machine: Equity and Beneficence in Sociotech System
+<a href="https://nsf2026imgallery.skild.com/entries/equity-beneficence-in-sociotech-system">NSF 2026 Big Idea Machine: Equity and Beneficence in Sociotech System</a>
 
  <hr>
 <br>
-Boise State Graduate College: Excellence in Mentoring Award
+<a href="https://www.boisestate.edu/news/2019/05/01/graduate-college-presents-21250-in-awards-to-graduate-students-and-faculty/"> Boise State Graduate College: Excellence in Mentoring Award (2019)</a> <a href="https://d25vtythmttl3o.cloudfront.net/uploads/sites/164/2019/04/D_1904_064_026.jpg">(pic)</a>
 <hr>
 <br>
-Boise State University Awards: Faculty Coach for a Game Honoree (November 24, 2018: BSU vs. University of Utah [BSU won])
+<a href ="https://twitter.com/DrCh0le/status/1066530439123283968">Boise State University Awards: Faculty Coach for a Game Honoree (November 24, 2018: BSU vs. University of Utah [BSU won])</a>
 <hr>
 <br>
-Boise State University Campus Awards: Nominated for the Advisor of the Year 2018 Award
+<a href ="https://www.boisestate.edu/getinvolved/campus-awards-ceremony/#2018">Boise State University Campus Awards: Nominated for the Advisor of the Year 2018 Award </a>
 <hr>
 <br>
-Golden Apple Award: Awarded the 2017 Golden Apple Award for the Graduate College at Boise State University
+<a href ="https://arbiteronline.com/asbsu-hosts-30th-annual-golden-apple-awards-ceremony/">Golden Apple Award: Awarded the 2017 Golden Apple Award for the Graduate College at Boise State University</a>
 <hr>
 <br>
 
