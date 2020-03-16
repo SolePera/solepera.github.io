@@ -1,0 +1,27 @@
+section.page__content {
+    display: flex;
+    flex-direction: column;
+}
+
+.group-photo img {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+@include breakpoint($medium) {
+    .homepage {
+        section.page__content {
+            flex-direction: row;
+        }
+        .principal {
+            flex: auto;
+            padding-right: 1em;
+        }
+        .tl-embed {
+            min-width: 300px;
+            width: 30%;
+            max-width: 500px;
+            flex: initial;
+        }
+    }
+}

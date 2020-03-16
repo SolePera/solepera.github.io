@@ -1,0 +1,17 @@
+main:
+  - title: "Research"
+    url: /projects/
+  - title: "Publications"
+    url: /pubs/
+  - title: "Classes"
+    url: /classes/
+  - title: "Students"
+    url: /people/
+  - title: "News"
+    url: /news/
+  - title: "Awards"
+    url: /awards/
+  - title: "Service"
+    url: /service/
+  - title: "Contact"
+    url: /contact/

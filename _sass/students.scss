@@ -1,0 +1,28 @@
+.student-list {
+    display: block;
+    padding-inline-start: 0;
+
+    li {
+        display: block;
+        clear: both;
+        margin: 1ex 1em;
+
+        .pic img {
+            height: 200px;
+        }
+    }
+
+    li:nth-child(odd) .pic {
+        float: right;
+        padding-left: 1ex;
+    }
+
+    li:nth-child(even) .pic {
+        float: left;
+        padding-right: 1ex;
+    }
+}
+
+#current-students ~ h3 {
+    clear: both;
+}
