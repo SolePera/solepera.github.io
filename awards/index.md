@@ -16,8 +16,7 @@ toc: true
 
  <hr>
 <br>
-<a href="https://www.boisestate.edu/news/2019/05/01/graduate-college-presents-21250-in-awards-to-graduate-students-and-faculty/"> Boise State Graduate College: Excellence in Mentoring Award (2019)</a> <a href="https://d25vtythmttl3o.cloudfront.net/uploads/sites/164/2019/04/D_1904_064_026.jpg">(pic)</a>
-<a href="https://d25vtythmttl3o.cloudfront.net/uploads/sites/164/2019/04/D_1904_064_026.jpg"><img src="../images/cameraIcon.png" alt="Picture for Event" /></a>
+<a href="https://www.boisestate.edu/news/2019/05/01/graduate-college-presents-21250-in-awards-to-graduate-students-and-faculty/"> Boise State Graduate College: Excellence in Mentoring Award (2019)</a> <a href="https://d25vtythmttl3o.cloudfront.net/uploads/sites/164/2019/04/D_1904_064_026.jpg"><img src="../images/cameraIcon.png" alt="Picture for Event"  height="42" width="42" /></a>
 <hr>
 <br>
 <a href ="https://twitter.com/DrCh0le/status/1066530439123283968">Boise State University Awards: Faculty Coach for a Game Honoree (November 24, 2018: BSU vs. University of Utah [BSU won])</a>
