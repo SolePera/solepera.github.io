@@ -4,9 +4,9 @@ layout: single
 header:
     overlay_filter: "0.5"
     overlay_image: /images/header-btowardsgreen.png
-  %  overlay_filter: "0.5"
-  %  overlay_image: /images/contactHead.jpg
-  %  caption: "Photo by [Trinity Treft ](https://unsplash.com/@tphocus) on [Unsplash](https://unsplash.com/photos/UL9awo4i_4w)"
+#  %  overlay_filter: "0.5"
+#  %  overlay_image: /images/contactHead.jpg
+#  %  caption: "Photo by [Trinity Treft ](https://unsplash.com/@tphocus) on [Unsplash](https://unsplash.com/photos/UL9awo4i_4w)"
 ---
 <b><u>Email:</u></b><br>
 <span style="display:inline-block; text-indent :2em;">solepera@boisestate.edu</span><br>
