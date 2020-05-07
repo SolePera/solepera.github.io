@@ -53,15 +53,15 @@ automatically takes care of laying out the alternating picture display.
 
 **Ion Madrazo Azpiazu (Ph.D.)**  *Multilingual Information Retrieval: A representation building perspective* <a href="https://scholarworks.boisestate.edu/td/1612/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
 
-**Axel Magnuson (M.Sc.)**   *Evaluation of Topic Models for Content-Based Popularity Prediction on Social Microblogs*
+**Axel Magnuson (M.Sc.)**   *Evaluation of Topic Models for Content-Based Popularity Prediction on Social Microblogs* <a href="https://scholarworks.boisestate.edu/td/1080/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
 
-**Deepa Mallela (M.Sc.)**   *CEST: City Event Summarization using Twitter*
+**Deepa Mallela (M.Sc.)**   *CEST: City Event Summarization using Twitter* <a href="https://scholarworks.boisestate.edu/cs_gradproj/11/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
 
-**Nevena Dragovic (M.Sc.)**   *Curating Recommendations to Satisfy User's Needs and Expectations*
+**Nevena Dragovic (M.Sc.)**   *When the System Becomes Your Personal Docent: Curating Recommendations to Satisfy User's Needs and Expectations* <a href="https://scholarworks.boisestate.edu/td/1219/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
 
-**Ion Madrazo Azpiazu (M.Sc.)**   *First Steps Towards Multilingual Readability Assessment*
+**Ion Madrazo Azpiazu (M.Sc.)**   *Towards Multipurpose Readability Assessment*  <a href="https://scholarworks.boisestate.edu/td/1210/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
 
-**Oghenemaro Anuyah (M.Sc.)**   *Fostering the Retrieval of Suitable Resources in Response to Children Educational Search Tasks*
+**Oghenemaro Anuyah (M.Sc.)**   *Fostering the Retrieval of Suitable Resources in Response to Children Educational Search Tasks* <a href="https://scholarworks.boisestate.edu/td/1423/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
 
 **Jennifer Ekstrand (M.Sc.)**
 
