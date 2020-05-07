@@ -50,9 +50,9 @@ header:
 <h2>Program Commitee (Recent)</h2>
 <ul>
 <ul>
-    <li>ACM Conference on Special Interest Group on Information Retrieval 2020 (senior PC ) (<a href="https://sigir.org/sigir2020/">site</a>)</li> 
-    <li>ACM Conference on Recommender Systems 2014 / 17; 2019 (senior PC) (<a href="https://recsys.acm.org/recsys19/">site</a>)</li>
-    <li> ACM Conference on User Modeling, Adaptation, and Personalization 2019 (<a href="http://www.cyprusconferences.org/umap2019/"> site</a> ).</li>
-    <li>Latin American Web Congress 2019 (<a href="http://laweb2019.icomp.ufam.edu.br/">site</a> ).</li>
+    <li>ACM Conference on Special Interest Group on Information Retrieval 2020 (senior PC ) (<a href="https://sigir.org/sigir2020/">site</a>)</li>
+    <li>ACM Conference on Recommender Systems 2014 / 17; 2019 / 20(senior PC) (<a href="https://recsys.acm.org/recsys19/">site</a>)</li>
+    <li> ACM Conference on User Modeling, Adaptation, and Personalization 2019 /20 (<a href="http://www.cyprusconferences.org/umap2019/"> site</a> ).</li>
+    <li>Latin American Web Congress 2019 (<a href="http://laweb2019.icomp.ufam.edu.br/">site</a> )</li>
 </ul>
 </ul>
