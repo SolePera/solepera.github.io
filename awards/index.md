@@ -17,6 +17,7 @@ toc: true
  <hr>
 <br>
 <a href="https://www.boisestate.edu/news/2019/05/01/graduate-college-presents-21250-in-awards-to-graduate-students-and-faculty/"> Boise State Graduate College: Excellence in Mentoring Award (2019)</a> <a href="https://d25vtythmttl3o.cloudfront.net/uploads/sites/164/2019/04/D_1904_064_026.jpg">(pic)</a>
+<a https://d25vtythmttl3o.cloudfront.net/uploads/sites/164/2019/04/D_1904_064_026.jpg"><img src="../images/camera.jpg"></a>
 <hr>
 <br>
 <a href ="https://twitter.com/DrCh0le/status/1066530439123283968">Boise State University Awards: Faculty Coach for a Game Honoree (November 24, 2018: BSU vs. University of Utah [BSU won])</a>
@@ -55,5 +56,3 @@ toc: true
 <p>The PI and her team will design and develop software modules as search engine add-ons to meet the needs of children searching the Web. The modules, which will upgrade current computation infrastructure, will be domain-independent, tailored to children, and usable on Google, to locate child-friendly educational- and leisure-related information. Research outputs will facilitate children's engagement with technology by improving their interactions on the Web. Partnerships with Idaho K-9 classrooms will allow the research team to gather feedback from children and teachers and verify the usefulness of the proposed modules in their intended, formal setting. </p>
 
 <p><b>More information:</b> <a href="https://www.boisestate.edu/news/2016/09/22/working-toward-better-kid-friendly-search-engine/">Working Toward a Better, Kid-Friendly Search Engine</a></p>
-
-<p><a href="../projects/ir-kids/">Publications</a></p>
