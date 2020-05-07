@@ -3,8 +3,10 @@ title: Students
 layout: splash
 header:
     overlay_filter: "0.5"
-    overlay_image: /images/studentsHead.jpg
-    caption: "Photo by [Marvin Meyer](https://unsplash.com/@marvelous) on [Unsplash](https://unsplash.com/photos/SYTO3xs06fU)"
+    overlay_image: /images/header-btowardsgreen.png
+  %  overlay_filter: "0.5"
+  %  overlay_image: /images/studentsHead.jpg
+  %  caption: "Photo by [Marvin Meyer](https://unsplash.com/@marvelous) on [Unsplash](https://unsplash.com/photos/SYTO3xs06fU)"
 ---
 
 
