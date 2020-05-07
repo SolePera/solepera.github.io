@@ -66,7 +66,7 @@ The markdown file needs a couple of things.  For an example, see `ComplexRec18-l
 
 -   The *Links and Resources* section should include links to:
 
-    - The offical paper page (e.g. its page in the ACM Digital Library)
+    - The official paper page (e.g. its page in the ACM Digital Library)
     - Paper PDF if available via public link
     - Conference or proceedings
     - Anything else useful (e.g. the project, code to reproduce, etc.)
