@@ -4,9 +4,9 @@ layout: single
 header:
     overlay_filter: "0.5"
     overlay_image: /images/header-btowardsgreen.png
-  %  overlay_filter: "0.5"
-  %  overlay_image: /images/awardsHead.jpg
-  %  caption: "Photo by [Mari Helin](https://unsplash.com/@mari) on [Unsplash](https://unsplash.com/photos/ilSnKT1IMxE)"
+#  %  overlay_filter: "0.5"
+#  %  overlay_image: /images/awardsHead.jpg
+#  %  caption: "Photo by [Mari Helin](https://unsplash.com/@mari) on [Unsplash](https://unsplash.com/photos/ilSnKT1IMxE)"
 toc: true
 ---
 
