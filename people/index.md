@@ -51,7 +51,7 @@ automatically takes care of laying out the alternating picture display.
 
 ## Alumni
 
-**Ion Madrazo Azpiazu (Ph.D.)**  *Multilingual Information Retrieval: A representation building perspective* <a href="https://scholarworks.boisestate.edu/td/1612/"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
+**Ion Madrazo Azpiazu (Ph.D.)**  *Multilingual Information Retrieval: A representation building perspective* <a href="https://scholarworks.boisestate.edu/td/1612/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
 
 **Axel Magnuson (M.Sc.)**   *Evaluation of Topic Models for Content-Based Popularity Prediction on Social Microblogs*
 
