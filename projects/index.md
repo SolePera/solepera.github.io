@@ -4,9 +4,9 @@ layout: splash
 header:
     overlay_filter: "0.5"
     overlay_image: /images/header-btowardsgreen.png
-  %  overlay_filter: "0.5"
-  %  overlay_image: /images/projects.jpg
-  %  caption: "Photo by [Helloquence](https://unsplash.com/@helloquence) on [Unsplash](https://unsplash.com/photos/5fNmWej4tAA)"
+#  overlay_filter: "0.5"
+#  %  overlay_image: /images/projects.jpg
+#  %  caption: "Photo by [Helloquence](https://unsplash.com/@helloquence) on [Unsplash](https://unsplash.com/photos/5fNmWej4tAA)"
 feature_row:
   - image_path: ../images/SoleStudents.jpg
     alt: "Professor Sole Pera outside of a brick school house holding a laptop with two adult students standing with her, looking at the laptop"
