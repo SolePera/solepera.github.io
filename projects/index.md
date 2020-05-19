@@ -3,7 +3,7 @@ title: Research
 layout: splash
 header:
     overlay_filter: "0.5"
-    overlay_image: /images/header-btowardsgreen.png
+    overlay_image: /images/header-bg-nopic.jpg
 #  overlay_filter: "0.5"
 #  %  overlay_image: /images/projects.jpg
 #  %  caption: "Photo by [Helloquence](https://unsplash.com/@helloquence) on [Unsplash](https://unsplash.com/photos/5fNmWej4tAA)"
