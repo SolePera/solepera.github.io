@@ -1,7 +1,7 @@
 ---
 title: Recommending Texts to Children with an Expert in the Loop
 date: 2018-06-01
-project: literate
+project: literate; ir-teachers
 type: paper
 ---
 
