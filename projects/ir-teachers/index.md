@@ -9,6 +9,7 @@ excerpt:
     information retrieval, teachers
 ---
 
-Research agenda focused on enahncing the retrieval of online resoures to support teachers.  This requires enhacing search and recommendation strategies so that they can enable resource identifycation that can foster learning and/or support classroom instruction. 
+Research agenda focused on the retrieval of online resoures to support teachers.  This requires designing and developing new search and recommendation strategies so that they can enable identification of resources that can foster student learning and/or support classroom instruction.
 
 ## Publications
+{% include project-pubs.md project="ir-teachers" %}
