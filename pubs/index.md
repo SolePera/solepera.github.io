@@ -4,7 +4,7 @@ layout: single
 toc: true
 header:
     overlay_filter: "0.5"
-    overlay_image: /images/header-btowardsgreen.png
+    overlay_image: /images/header-bg-nopic.jpg
 
 ---
 
