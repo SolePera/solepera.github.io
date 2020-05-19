@@ -13,7 +13,7 @@ feature_row:
     url: "projects/ir-kids"
     btn_label: "Children and Search"
     btn_class: "btn--x-large"
-    - image_path: ../images/kid-rec.png
+  - image_path: ../images/kid-rec.png
       alt: "children pondering, decision making"
       url: "projects/rec-kids"
       btn_label: "Children and Recommenders"
