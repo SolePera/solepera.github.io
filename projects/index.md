@@ -23,10 +23,10 @@ feature_row:
     url: "projects/readability/"
     btn_label: "Readability Assessment"
     btn_class: "btn--x-large"
-  - image_path: ../images/rec.png
+  - image_path: ../images/LiterateLogo.png
     alt: "a thumbs up"
-    url: "projects/recsys/"
-    btn_label: "Recommender Systems"
+    url: "projects/ir-teachers/"
+    btn_label: "IR and Teachers"
     btn_class: "btn--x-large"
 #feature_row2:
 #      - image_path: ../images/SoleStudents.jpg
