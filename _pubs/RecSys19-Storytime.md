@@ -1,7 +1,7 @@
 ---
 title: "StoryTime: eliciting preferences from children for book recommendations"
 date: 2019-09-16
-project: tbd
+project: kid-rec
 type: paper
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Can we leverage rating patterns from traditional users to enhance recommendations for children?
 date: 2018-10-02
-project: tbd
+project: kid-rec
 type: paper
 ---
 
