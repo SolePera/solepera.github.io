@@ -3,7 +3,7 @@ title: News
 layout: splash
 header:
     overlay_filter: "0.5"
-    overlay_image: /images/header-btowardsgreen.png
+    overlay_image: /images/header-bg-nopic.jpg
 #%    overlay_filter: "0.2"
 #%    overlay_image: /images/newsHead.jpg
 #%    caption: "Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/pages?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
