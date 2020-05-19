@@ -11,8 +11,13 @@ feature_row:
   - image_path: ../images/SoleStudents.jpg
     alt: "Professor Sole Pera outside of a brick school house holding a laptop with two adult students standing with her, looking at the laptop"
     url: "projects/ir-kids"
-    btn_label: "IR for Children"
+    btn_label: "Children and Search"
     btn_class: "btn--x-large"
+    - image_path: ../images/kid-rec.png
+      alt: "children pondering, decision making"
+      url: "projects/rec-kids"
+      btn_label: "Children and Recommenders"
+      btn_class: "btn--x-large"
   - image_path: ../images/readability.png
     alt: "A cartoonish computer monitor with text highlighted green, glasses in the upper left hand corner"
     url: "projects/readability/"
