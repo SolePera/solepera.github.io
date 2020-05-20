@@ -8,7 +8,7 @@ header:
 excerpt:
     information retrieval, text complexity, readability, multilingual, machine learning, natural language processing
 ---
-Research agenda focused on the automatically examining the level of complexity of texts in multiple languages. This requires leveraring feature engeneering, machine learning, and natural language processing. With readability being a major component of personalization of several information retrieval tasks, it is imperative that it can be estimated efficiently, regardless of the language, topic, and level of the corresponding resource.
+Research agenda focused on automatically examining the level of complexity of texts in multiple languages. This requires leveraring feature engeneering, machine learning, and natural language processing. With readability being a major component of personalization of several information retrieval tasks, it is imperative that it can be estimated efficiently, regardless of the language, topic, and level of the corresponding resource.
 
 ## Publications
 {% include project-pubs.md project="ir-read-multi" %}
