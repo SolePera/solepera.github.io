@@ -2,7 +2,7 @@
 title: "StoryTime: eliciting preferences from children for book recommendations"
 date: 2019-09-16
 project: kid-rec
-type: paper
+type: demo
 ---
 
 {: .citation}
