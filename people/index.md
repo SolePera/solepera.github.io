@@ -45,7 +45,7 @@ automatically takes care of laying out the alternating picture display.
 -   ![Garret Allen](../images/GarrettA_pic.png)
     {: .pic}
 
-    **Garrett Allen** is a senior undergraduate working on his Computer Science degree, which will be completed in the Spring of 2020. He works as an undergraduate research assistant with Dr. Pera and the CAST team to create an adaptive search tool for children. Beginning in the summer of 2020, he will begin working towards his Master's in the Computer Science Department at Boise State and continue his work with the CAST team.
+    **Garrett Allen** is a graduate research assistant working with Dr. Pera and the CAST team to create an adaptive search tool for children. He received his Bachelor's of Science in Computer Science from Boise State in May 2020. He began working towards his Master’s of Computer Science, also at BSU, in summer 2020. He enjoys that research focuses on the why more than the how when it comes to solving problems.
 
 
 
