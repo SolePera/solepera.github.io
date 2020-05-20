@@ -1,7 +1,7 @@
 ---
 title: "3rd KidRec Workshop: What does good look like?"
 date: 2019-06-12
-project: ir-kids
+project: tbd
 type: paper
 ---
 

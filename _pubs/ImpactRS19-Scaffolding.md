@@ -1,7 +1,7 @@
 ---
 title: "Here, There, and Everywhere: Building a Scaffolding for Children’s Learning Through Recommendations"
 date: 2019-09-16
-project: lenskit
+project: kid-rec
 type: paper
 ---
 

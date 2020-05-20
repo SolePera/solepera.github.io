@@ -1,7 +1,7 @@
 ---
 title: "Retrieving and Recommending for the Classroom: Stakeholders, Objectives, Resources, and Users"
 date: 2018-08-15
-project: literate
+project: ir-teachers
 type: paper
 ---
 

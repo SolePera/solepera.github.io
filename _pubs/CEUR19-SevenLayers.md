@@ -1,7 +1,7 @@
 ---
 title: "The Seven Layers of Complexity of Recommender Systems for Children in Educational Contexts"
 date: 2019-09-09
-project: tbd
+project: kid-rec
 type: paper
 ---
 

@@ -10,7 +10,7 @@ header:
 feature_row:
   - image_path: ../images/SoleStudents.jpg
     alt: "Professor Sole Pera outside of a brick school house holding a laptop with two adult students standing with her, looking at the laptop"
-    url: "projects/ir-kids"
+    url: "projects/search-kids"
     btn_label: "Children and Search"
     btn_class: "btn--x-large"
   - image_path: ../images/kid-rec.png
@@ -18,16 +18,17 @@ feature_row:
     url: "projects/rec-kids"
     btn_label: "Children and Recommenders"
     btn_class: "btn--x-large"
-  - image_path: ../images/readability.png
-    alt: "A cartoonish computer monitor with text highlighted green, glasses in the upper left hand corner"
-    url: "projects/readability/"
-    btn_label: "Readability Assessment"
-    btn_class: "btn--x-large"
   - image_path: ../images/LiterateLogo.png
     alt: "a thumbs up"
     url: "projects/ir-teachers/"
     btn_label: "IR and Teachers"
     btn_class: "btn--x-large"
+  - image_path: ../images/ir-read-multi.png
+    alt: "Deep learning architechture for multilingual readability estimation"
+    url: "projects/ir-readability-multilingual/"
+    btn_label: "IR, Readability, and Multilingualism"
+    btn_class: "btn--x-large"
+
 #feature_row2:
 #      - image_path: ../images/SoleStudents.jpg
 #        alt: "Professor Sole Pera outside of a brick school house holding a laptop with two adult students standing with her, looking at the laptop"

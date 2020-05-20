@@ -1,7 +1,7 @@
 ---
 title: "Is cross‐lingual readability assessment possible?"
 date: 2019-08-24
-project: tbd
+project: ir-read-multi
 type: paper
 ---
 

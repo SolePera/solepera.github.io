@@ -1,7 +1,7 @@
 ---
 title: "Multiattentive Recurrent Neural Network Architecture for Multilingual Readability Assessment"
 date: 2019-07-01
-project: tbd
+project: ir-read-multi
 type: paper
 ---
 
