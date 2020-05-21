@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Latest Publications
 layout: single
 toc: true
 header:
