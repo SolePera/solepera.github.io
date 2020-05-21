@@ -1,7 +1,7 @@
 ---
 title: "Sonny, Cerca! evaluating the impact of using a vocal assistant to search at school"
 date: 2019-09-09
-project: tbd
+project: ir-kids
 type: paper
 ---
 
