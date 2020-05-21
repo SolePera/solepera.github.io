@@ -12,3 +12,8 @@ Monica Landoni, Emmiliana Murgia, Theo Huibers, Maria Soledad Pera. 2019. ["My N
 ## Abstract
 
 In this paper, we describe the set up and procedure followed in an initial study where we observe a small group of primary school children interact with a vocal assistant or a standard GUI interface, while looking for online resources that can help them answer a set of predefined questions. We examine log files, observations, and feedback provided by the young users via an elementary interview at the end of each search section. Results from our analysis prompt us to consider how to evaluate the search process, specially one initiated with a vocal assistant, while considering both correctness of results, children preferences, and context of the search.
+
+## Links
+
+* [Paper PDF](https://kidrec.github.io/papers/KidRec_2019_paper_3.pdf)
+* [Published Version](https://kidrec.github.io/)

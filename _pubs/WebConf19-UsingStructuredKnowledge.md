@@ -1,7 +1,7 @@
 ---
 title: "Using structured knowledge and traditional word embeddings to generate concept representations in the educational domain"
 date: 2019-05-13
-project: irc
+project: ir-kids
 type: paper
 ---
 

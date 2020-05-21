@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Brody Downs, Tyler French, Maria Soledad Pera, Katherine Landau Wright, Casey Kennington, and Jerry Alan Fails. 2019. ["Searching for spellcheckers: What kids want, what kids need"](#). In <cite>Proceedings of the 18th ACM International Conference on Interaction Design and Children (IDC 2019)</cite>.
+Brody Downs, Tyler French, Maria Soledad Pera, Katherine Landau Wright, Casey Kennington, and Jerry Alan Fails. 2019. ["Searching for spellcheckers: What kids want, what kids need"](#). In <cite>Proceedings of the 18th ACM International Conference on Interaction Design and Children (IDC 2019)</cite> [Best Work--in--Progress (Poster)].
 
 ## Abstract
 

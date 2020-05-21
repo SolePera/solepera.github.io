@@ -1,7 +1,7 @@
 ---
 title: "Lightning Talk-Looking for the Movie Seven or Sven from the Movie Frozen?"
 date: 2019-05-13
-project: irc
+project: ir-kids
 type: paper
 ---
 
