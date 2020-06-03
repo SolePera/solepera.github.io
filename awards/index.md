@@ -2,7 +2,6 @@
 title: Awards
 layout: single
 header:
-    overlay_filter: "0.5"
     overlay_image: /images/header-bg-nopic.jpg
 #  %  overlay_filter: "0.5"
 #  %  overlay_image: /images/awardsHead.jpg

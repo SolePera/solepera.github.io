@@ -2,7 +2,6 @@
 title: Classes
 layout: splash
 header:
-    overlay_filter: "0.5"
     overlay_image: /images/header-bg-nopic.jpg
 #%    overlay_image: /images/classHead.jpg
 #%    caption: "Photo by [Changbok Ko](https://unsplash.com/@kochangbok) on [Unsplash](https://unsplash.com/photos/F8t2VGnI47I)"
