@@ -14,4 +14,4 @@ Multilingual machine translation has recently been in vogue given its potential 
 
 ## Links
 
-* [Published Version](https://arxiv.org/abs/2005.05507s)
+* [Published Version](https://arxiv.org/abs/2005.05507)
