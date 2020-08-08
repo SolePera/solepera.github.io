@@ -12,9 +12,9 @@ header:
 <ul>
 <ul>
 <li>RecSys 2020 - Inclusion & Accessibility Chair</li>
-<li>IDC 2019 - Social activity chair</li>
-<li>ACM RecSys 2019 - Poster and demo chair</li>
-<li>ACM RecSys 2018 - General co-chair</li>
+<li>IDC 2019 - Social Activity Chair</li>
+<li>ACM RecSys 2019 - Poster and Demo chair</li>
+<li>ACM RecSys 2018 - General Chair</li>
 <li>PWN LSAMP/SHPE Conference: Emerging STEM Leaders-Dream it, Do it, on March 1-3, 2018</li>
 </ul>
 </ul>
@@ -31,8 +31,6 @@ header:
 <h2>Reviewer</h2>
 <ul>
 <ul>
-<li>ACM Conference on User Modeling, Adaptation and Personalization</li>
-<li>ACM Conference on Recommender Systems</li>
 <li>Journal of Knowledge and Information</li>
 <li>IEEE Access Journal</li>
 <li>Hypermedia and Multimedia Journal</li>
@@ -45,10 +43,11 @@ header:
 </ul>
 </ul>
 
-<h2>Program Commitee (Recent)</h2>
+<h2>Program Committee (Recent)</h2>
 <ul>
 <ul>
-    <li>ACM Conference on Special Interest Group on Information Retrieval 2020 (senior PC ) (<a href="https://sigir.org/sigir2020/">site</a>)</li>
+    <li>ACM Conference on Recommender Systems - LBR TRack 2020 (<a href="https://sigir.org/sigir2020/">site</a>)</li>
+    <li>ACM Conference on Special Interest Group on Information Retrieval 2020 (senior PC) (<a href="https://sigir.org/sigir2020/">site</a>)</li>
     <li>ACM Conference on Recommender Systems 2014 / 17; 2019 / 20(senior PC) (<a href="https://recsys.acm.org/recsys19/">site</a>)</li>
     <li> ACM Conference on User Modeling, Adaptation, and Personalization 2019 /20 (<a href="http://www.cyprusconferences.org/umap2019/"> site</a> ).</li>
     <li>Latin American Web Congress 2019 (<a href="http://laweb2019.icomp.ufam.edu.br/">site</a> )</li>
