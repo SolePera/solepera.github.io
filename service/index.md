@@ -11,6 +11,8 @@ header:
 <h2>Conference Organization</h2>
 <ul>
 <ul>
+<li>RecSys 2021 - Inclusion & Accessibility Co-Chair</li>
+<li>UMAP 2021 - Co-chair for <a href="https://www.um.org/umap2021/call-for-contribution/call-for-papers#personalizedrecsys"> Personalized Recommender Systems track </a> </li>
 <li>RecSys 2020 - Inclusion & Accessibility Chair</li>
 <li>IDC 2019 - Social Activity Chair</li>
 <li>ACM RecSys 2019 - Poster and Demo chair</li>
