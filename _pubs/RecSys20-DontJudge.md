@@ -1,7 +1,7 @@
 ﻿---
 title: "'Don’t Judge a Book by its Cover': Exploring Book Traits Children Favor"
 date: 2020-09-22
-project: ir-kids
+project: kid-rec
 type: paper
 doi: 10.1145/3383313.3418490
 ---
