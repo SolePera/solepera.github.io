@@ -1,11 +1,11 @@
-﻿---
-title: 4th KidRec – What does Good Look Like: From Design, Research, and Practice to Policy
+---
+title: "4th KidRec – What does Good Look Like: From Design, Research, and Practice to Policy"
 date: 2020-12-01
 project: ir-kids
 type: paper
 ---
 {: .citation}
-Monica Landoni, Maria Soledad Pera, Jerry Alan Fails, Emiliana Murgia, Natalia Kucirkova and Theo Huibers. 2020. ["KidRec – What does Good Look Like: From Design, Research, and Practice to Policy"](#). In <cite>SIGIR Forum 54, 2 (December 2019)</cite>.
+Monica Landoni, Maria Soledad Pera, Jerry Alan Fails, Emiliana Murgia, Natalia Kucirkova and Theo Huibers. 2020. ["4th KidRec – What does Good Look Like: From Design, Research, and Practice to Policy"](#). In <cite>SIGIR Forum 54, 2 (December 2020)</cite>.
 
 ## Abstract
 
