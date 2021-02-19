@@ -1,19 +1,21 @@
 ﻿---
-title: "'Don’t Judge a Book by its Cover': Exploring Book Traits Children Favor"
-date: 2020-09-22
-project: kid-rec
+title: 4th KidRec – What does Good Look Like: From Design, Research, and Practice to Policy
+date: 2020-12-01
+project: ir-kids
 type: paper
-doi: 10.1145/3383313.3418490
 ---
-
 {: .citation}
-Ashlee Milton, Levesson Batista, Garrett Allen, Siqi Gao, Yiu-Kai D Ng, and Maria Soledad Pera. 2020. ["'Don’t Judge a Book by its Cover': Exploring Book Traits Children Favor"](#). Short paper in <cite>Proceedings of the Fourteenth ACM Conference on Recommender Systems</cite> (RecSys ’20). ACM, 6 pp. DOI:[10.1145/3383313.3418490](https://doi.org/10.1145/3383313.3418490).
+Monica Landoni, Maria Soledad Pera, Jerry Alan Fails, Emiliana Murgia, Natalia Kucirkova and Theo Huibers. 2020. ["KidRec – What does Good Look Like: From Design, Research, and Practice to Policy"](#). In <cite>SIGIR Forum 54, 2 (December 2019)</cite>.
 
 ## Abstract
 
-We present the preliminary exploration we conducted to identify traits that can influence children’s preferences in books. Findings offer insights for the design of recommender algorithms that would look beyond patterns inferred from traditional user-system interactions (e.g., ratings) for recommendation purposes, since when it comes to children such data is rarely, if at all, available.
+We summarize outcomes from KidRec 2020, the 4th edition of the workshop on International
+and Interdisciplinary Perspectives on Children & Recommender and Information Retrieval
+Systems; which this year was co-located with the ACM Interaction Design and Children
+conference. In addition to lessons learned from the keynote address by Professor Marcia C.
+Linn, accepted contributions, and collaborative work during the workshop, we offer insights
+related to hosting KidRec as a virtual meeting during the COVID-19 pandemic.
 
 ## Links
-
-* [Published version](https://dl.acm.org/doi/10.1145/3383313.3418490)
-* [RecSys 2020](https://recsys.acm.org/recsys20/)
+* [Paper PDF](http://sigir.org/wp-content/uploads/2020/12/p08.pdf)
+* [Proceedings](https://sigir.org/forum/issues/december-2020/)
