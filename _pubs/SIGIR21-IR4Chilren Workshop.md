@@ -1,7 +1,7 @@
 ---
 title: "IR for Children 2000-2020: Where Are We Now?"
 date: 2021-07-15
-project: ir-kids
+project: ir-teachers
 type: paper
 ---
 

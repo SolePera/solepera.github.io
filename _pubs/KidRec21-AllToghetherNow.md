@@ -1,6 +1,6 @@
 ---
 title: "All Together Now: Teachers as Research Partners in the Design of Search Technology for the Classroom"
-date: 2021-06-12
+date: 2021-06-13
 project: ir-teachers
 type: paper
 ---
