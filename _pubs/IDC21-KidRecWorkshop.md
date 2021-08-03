@@ -7,7 +7,7 @@ type: paper
 
 
 {: .citation}
-Monica Landoni, Theo Huibers, Maria Soledad Pera, and Jerry Alan Fails. 2021. ["5th KidRec Workshop:  Search and Recommendation Technology through the Lens of a Teacher"](#). In <cite>Proceedings of the 20th ACM International Conference on Interaction Design and Children (IDC 2021)</cite>. ACM, 658-661 pp.  DOI:[10.1145/3459990.3460655](https://dl.acm.org/doi/fullHtml/10.1145/3459990.3460655).
+Monica Landoni, Theo Huibers, Maria Soledad Pera, and Jerry Alan Fails. 2021. ["5th KidRec Workshop:  Search and Recommendation Technology through the Lens of a Teacher"](#). In <cite>Proceedings of the 20th ACM International Conference on Interaction Design and Children (IDC 2021)</cite>. ACM, 658-661 pp. DOI:[10.1145/3459990.3460655](https://dl.acm.org/doi/fullHtml/10.1145/3459990.3460655).
 
 ## Abstract
 
