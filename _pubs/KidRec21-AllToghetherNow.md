@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Emiliana Murgia, Monica Landoni, Theo Huibers, and Maria Soledad Pera. 2021. ["All Together Now: Teachers as Research Partners in the Design of Search Technology for the Classroom"](#). In <cite> Proceedings of the 5th International and Interdisciplinary Perspectives on Children & Recommender and Information Retrieval Systems: Search and REcommendation Technology through the Lens of a Teacher (KidRec 2021), co-located with ACM IDC 2021</cite>.
+Emiliana Murgia, Monica Landoni, Theo Huibers, and Maria Soledad Pera. 2021. ["All Together Now: Teachers as Research Partners in the Design of Search Technology for the Classroom"](#). In <cite> Proceedings of the 5th International and Interdisciplinary Perspectives on Children & Recommender and Information Retrieval Systems: Search and Recommendation Technology through the Lens of a Teacher (KidRec 2021), co-located with ACM IDC 2021</cite>.
 
 ## Abstract
 
