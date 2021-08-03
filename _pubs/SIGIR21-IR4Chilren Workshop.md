@@ -7,7 +7,7 @@ type: paper
 
 
 {: .citation}
-Theo Huibers, Monica Landoni, Emiliana Murgia, and Maria Soledad Pera. 2021. ["IR for Children 2000-2020: Where Are We Now?"](#). In <cite>Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021)</cite>. ACM,  2689–2692 pp. DOI:[10.1145/3404835.3462822](https://doi.org/10.1145/3404835.3462822).
+Theo Huibers, Monica Landoni, Emiliana Murgia, and Maria Soledad Pera. 2021. ["IR for Children 2000-2020: Where Are We Now?"](#). In <cite>Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2021)</cite>. ACM,  2689-2692 pp. DOI:[10.1145/3404835.3462822](https://doi.org/10.1145/3404835.3462822).
 
 ## Abstract
 
