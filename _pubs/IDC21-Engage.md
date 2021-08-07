@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Garett Allen, Benjamin L Peterson, Dhanush kumar Ratakonda, Mostofa Najmus Sakib, Jerry Alan Fails, Casey Kennington, Katherine Landau Wright, and Maria Soledad Pera. 2021. ["Engage!: Co-designing Search Engine Result Pages to Foster Interactions"](#). In <cite>Proceedings of Interaction Design and Children</cite> (IDC '21'). ACM, pp 583-587.
+Garrett Allen, Benjamin L Peterson, Dhanush kumar Ratakonda, Mostofa Najmus Sakib, Jerry Alan Fails, Casey Kennington, Katherine Landau Wright, and Maria Soledad Pera. 2021. ["Engage!: Co-designing Search Engine Result Pages to Foster Interactions"](#). In <cite>Proceedings of Interaction Design and Children</cite> (IDC '21'). ACM, pp 583-587.
 
 ## Abstract
 

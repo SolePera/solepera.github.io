@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Ashlee Milton, Garett Allen, and Maria Soledad Pera. 2021. ["To Infinity and Beyond! Accessibility is the Future for Kids' Search Engines"](#). In <cite>Proceedings of the IR for Children 2000-2020: Where Are We Now? Workshop co-located with the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval</cite>.
+Ashlee Milton, Garrett Allen, and Maria Soledad Pera. 2021. ["To Infinity and Beyond! Accessibility is the Future for Kids' Search Engines"](#). In <cite>Proceedings of the IR for Children 2000-2020: Where Are We Now? Workshop co-located with the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval</cite>.
 
 ## Abstract
 

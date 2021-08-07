@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Garett Allen, Katherine Landau Wright, Jerry Alan Fails, Casey Kennington, and Maria Soledad Pera. 2021. ["CASTing a Net: Supporting Teachers with Search Technology"](#). In <cite>Proceedings of the 5th International and Interdisciplinary Perspectives on Children and Recommender and Information Retrieval Systems: Search and Recommendation Technology through the Lens of a Teacher (KidRec 2021), co-located with ACM IDC 2021</cite>.
+Garrett Allen, Katherine Landau Wright, Jerry Alan Fails, Casey Kennington, and Maria Soledad Pera. 2021. ["CASTing a Net: Supporting Teachers with Search Technology"](#). In <cite>Proceedings of the 5th International and Interdisciplinary Perspectives on Children and Recommender and Information Retrieval Systems: Search and Recommendation Technology through the Lens of a Teacher (KidRec 2021), co-located with ACM IDC 2021</cite>.
 
 ## Abstract
 
