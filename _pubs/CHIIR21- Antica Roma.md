@@ -7,7 +7,7 @@ doi: 10.1145/3406522.3446058
 ---
 {: .citation}
 Mohammad Aliannejadi, Monica Landoni, Theo Huibers, Emiliana Murgia, and Maria Soledad Pera. 2021. ["Children's Perspective on How Emojis Help Them to Recognise Relevant Results: Do Actions Speak Louder Than Words?"](#).
-Short paper in <cite>Proceedings of the 2021 Conference on Human Information Interaction and Retrieval</cite> (CHIIR '21). ACM, to appear. DOI:[10.1145/3406522.3446058](https://doi.org/10.1145/3406522.3446058).
+Short paper in <cite>Proceedings of the 2021 Conference on Human Information Interaction and Retrieval</cite> (CHIIR '21). ACM, 301-305 pp. DOI:[10.1145/3406522.3446058](https://doi.org/10.1145/3406522.3446058).
 
 ## Abstract
 
