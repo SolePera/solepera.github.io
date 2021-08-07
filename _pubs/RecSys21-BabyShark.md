@@ -1,7 +1,7 @@
 ---
 title: "Baby Shark to Barracuda: Analyzing Children's Music Listening Behavior"
 date: 2021-10-01
-project: music recommendation
+project: ir-kids
 type: paper
 ---
 
