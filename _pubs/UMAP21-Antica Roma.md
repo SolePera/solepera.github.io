@@ -1,6 +1,6 @@
 ---
 title: "Right Way, Right Time: Towards a Better Comprehension of Young Students’ Needs when Looking for Relevant Search Results"
-date: 2021-07-18
+date: 2021-07-02
 project: ir-kids
 type: paper
 doi: 10.1145/3340631.3394847
