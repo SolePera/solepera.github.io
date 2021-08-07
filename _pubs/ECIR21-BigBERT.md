@@ -3,11 +3,11 @@ title: "BiG-BERT: Classifying Educational Web Resources for Kindergarten-12th Gr
 date: 2021-03-28
 project: ir-kids
 type: paper
-doi: 
+doi:
 ---
 {: .citation}
 Garrett Allen, Brody Downs, Aprajita Shukla, Casey Kennington, Jerry Alan Fails, Katherine Landau Wright, and Maria Soledad Pera. 2021. ["BiG-BERT: Classifying Educational Web Resources for Kindergarten-12th Grades"](#).
-Short paper in <cite>Proceedings of the 43rd European Conference on Information Retrieval</cite> (ECIR '21). ACM, to appear.
+Short paper in <cite>Proceedings of the 43rd European Conference on Information Retrieval</cite> (ECIR '21). ACM, pp 176-184.
 
 ## Abstract
 
@@ -15,3 +15,5 @@ In this paper, we present BiGBERT, a deep learning model that simultaneously exa
 
 ## Links
 * [ECIR 2021](https://www.ecir2021.eu/)
+* [Published Version](https://link.springer.com/chapter/10.1007/978-3-030-72240-1_13)
+* [Code Repository](https://github.com/BSU-CAST/BiGBERT)

@@ -1,5 +1,5 @@
 ---
-title: "Right Way, Right Time: The Need for Interfaces That Can Better Support Children Searching for Learning"
+title: "Right Way, Right Time: Towards a Better Comprehension of Young Students’ Needs when Looking for Relevant Search Results"
 date: 2021-07-18
 project: ir-kids
 type: paper
@@ -7,7 +7,7 @@ doi: 10.1145/3340631.3394847
 ---
 
 {: .citation}
-Mohammad Aliannejadi, Emiliana Murgia, Monica Landoni, Theo Huibers, and Maria Soledad Pera. 2021. ["Right Way, Right Time: The Need for Interfaces That Can Better Support Children Searching for Learning"](#). Short paper in <cite>Proceedings of the 2021 Conference on User Modeling, Adaptation and Personalization</cite> (UMAP '21). ACM, 95-100 pp. DOI:[10.1145/3340631.3394847](https://doi.org/10.1145/3340631.3394847).
+Mohammad Aliannejadi, Emiliana Murgia, Monica Landoni, Theo Huibers, and Maria Soledad Pera. 2021. ["Right Way, Right Time: Towards a Better Comprehension of Young Students’ Needs when Looking for Relevant Search Results"](#). Short paper in <cite>Proceedings of the 2021 Conference on User Modeling, Adaptation and Personalization</cite> (UMAP '21). ACM, 95-100 pp. DOI:[10.1145/3450613.3456843](https://doi.org/10.1145/3450613.3456843).
 
 ## Abstract
 
@@ -15,5 +15,5 @@ Mohammad Aliannejadi, Emiliana Murgia, Monica Landoni, Theo Huibers, and Maria S
 
 ## Links
 
-* [Published version](https://doi.org/10.1145/3340631.3394847)
+* [Published version](https://doi.org/10.1145/3450613.3456843)
 * [UMAP 2021](https://www.um.org/umap2021/)
