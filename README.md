@@ -1,6 +1,6 @@
-# piretship.github.io
+# solepera.github.io
 
-PIReT Web Site.  This is a Jekyll site.
+Academic Web Site for Dr Sole Pera.  This is a Jekyll site.
 
 We use the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) Jekyll theme.
 
