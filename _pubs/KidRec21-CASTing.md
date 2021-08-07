@@ -1,7 +1,7 @@
 ---
 title: "CASTing a Net: Supporting Teachers with Search Technology"
 date: 2021-05-07
-project: tbd
+project: ir-teachers
 type: paper
 ---
 
