@@ -6,7 +6,7 @@ type: paper
 ---
 
 {: .citation}
-Monica Landoni, Theo Huibers, Mohammad Aliannejadi, Emiliana Murgia, and Maria Soledad Pera. 2021. ["Getting to Know You: Search Logs and Expert Grading to Define Children's Search Roles in the Classroom"](#). In <cite>Proceedings of the 2nd International Conference on Design of Experimental Search & Information REtrieval Systems</cite> (DESIRES). To appear pp. 
+Monica Landoni, Theo Huibers, Mohammad Aliannejadi, Emiliana Murgia, and Maria Soledad Pera. 2021. ["Getting to Know You: Search Logs and Expert Grading to Define Children's Search Roles in the Classroom"](#). In <cite>Proceedings of the 2nd International Conference on Design of Experimental Search & Information REtrieval Systems</cite> (DESIRES).
 
 ## Abstract
 
@@ -14,4 +14,4 @@ Monica Landoni, Theo Huibers, Mohammad Aliannejadi, Emiliana Murgia, and Maria S
 
 ## Links
 
-* [Published version](http://desires.dei.unipd.it/)
+* [Published version](http://ceur-ws.org/Vol-2950/paper-10.pdf)
