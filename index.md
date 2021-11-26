@@ -16,7 +16,7 @@ excerpt:
 After completing her Ph.D. in Computer Science at Brigham Young University in 2014, Dr. Maria Soledad Pera, a native of Argentina, joined Boise State University in the Department of Computer Science, where she is the co-director of the <a href = "http://piret.info/">People and Information Research Team (Piret)</a>. Sole's main area of expertise is in information retrieval and her current research work focuses on information retrieval systems that can better serve non-traditional users, such as children, teachers, and individuals who speak English as a second language. Sole is a co-PI in the ongoing NSF-funded project <a href = "https://cast.boisestate.edu/"> CAST (Child Adaptive Search Tool)</a>. She is also part of an international and interdisciplinary group of researchers interested in <a href = "https://www.fab4.science/"> advancing research pertaining to information retrieval systems that can support education</a>.
 
 
-<p><p><b>Research Interests:</b> <p>Information Retrieval, Web Search, Recommender Systems, Information Systems, Natural Language Processing, Machine Learning,  Databases, System Analysis.</p></p></p>
+<p><p><b>Research Interests:</b> <p>Information Retrieval, Web Search, Recommender Systems, Readability, Information Systems, Natural Language Processing, Machine Learning, Artificial Intelligence, Databases, System Analysis.</p></p></p>
 
 <h2>EDUCATION</h2>
 
