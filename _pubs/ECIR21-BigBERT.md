@@ -3,7 +3,7 @@ title: "BiG-BERT: Classifying Educational Web Resources for Kindergarten-12th Gr
 date: 2021-03-28
 project: ir-kids
 type: paper
-doi:
+doi: 10.1007/978-3-030-72240-1_13
 ---
 {: .citation}
 Garrett Allen, Brody Downs, Aprajita Shukla, Casey Kennington, Jerry Alan Fails, Katherine Landau Wright, and Maria Soledad Pera. 2021. ["BiG-BERT: Classifying Educational Web Resources for Kindergarten-12th Grades"](#).
