@@ -18,13 +18,6 @@ automatically takes care of laying out the alternating picture display.
 
 {: .student-list}
 
--   ![Ashlee Milton](../images/Ashlee_pic.jpg)
-    {: .pic}
-
-    **Ashlee Milton** is a senior working on a second bachelor’s degree in computer science and will be continuing at Boise State in the master’s program starting spring 2020. Her first degree is in psychology from the University of Idaho. She works as an undergraduate research assistant for Dr. Pera working on subjects related to information retrieval with underrepresented populations.
-
-
-
 -   ![Devan Karsann](../images/Devan_pic.png)
     {: .pic}
 
@@ -36,16 +29,11 @@ automatically takes care of laying out the alternating picture display.
 
     **Lawrence Spear** is a PhD student in Computer Science, working with Dr. Maria Soledad Pera. Before joining the PIReT Team, he had worked in industry for 20 years. Throughout his career, he has done R&D in the latest techniques in the industry whether it is more process oriented, such as Agile, Behavior Driven Development and Continuous Deployment; or more technical oriented, such as Machine Learning, Infrastructure as Code or .Net Core. His general research interest is information retrieval, such as how children discover new information and how different search engines have to handle non-Latin-based languages. He also has an intense passion for learning new knowledge and broadening his horizons.
 
--   ![Garret Allen](../images/GarrettA_pic.png)
-    {: .pic}
-
-    **Garrett Allen** is a graduate research assistant working with Dr. Pera and the CAST team to create an adaptive search tool for children. He received his Bachelor's of Science in Computer Science from Boise State in May 2020. He began working towards his Master’s of Computer Science, also at BSU, in summer 2020. He enjoys that research focuses on the why more than the how when it comes to solving problems.
-
-
-
-
-
 ## Alumni
+**Garrett Allen (M.S.)** *Training Wheels for Web Search: Multi-Perspective Learning to Rank to Support Children's Information Seeking in the Classroom* <a href="https://scholarworks.boisestate.edu/td/1891/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30"/></a>
+
+**Ashlee Milton (M.S.)**  *Into the Unknown: Exploration of Search Engines' Responses to Users with Depression and Anxiety* <a href="https://scholarworks.boisestate.edu/td/1854/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
+
 **Michael Green (M.S.)**  *Why Don't You Act Your Age?: Recognizing the Stereotypical 8-12 Year Old Searcher by Their Search Behavior* <a href="https://scholarworks.boisestate.edu/td/1858/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
 
 **Ion Madrazo Azpiazu (Ph.D.)**  *Multilingual Information Retrieval: A representation building perspective* <a href="https://scholarworks.boisestate.edu/td/1612/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
