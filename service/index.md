@@ -11,7 +11,8 @@ header:
 <h2>Conference Organization</h2>
 <ul>
 <ul>
-<li>SIGIR 2022 - <a href="https://sigir.org/sigir2022/organization/"> Doctoral Symposium </a> Co-Chair</li>
+<li>RecSys 2022 - <a href="https://recsys.acm.org/recsys22/"> Doctoral Symposium </a> Co-Chair</li>
+<li>SIGIR 2022 - <a href="https://sigir.org/sigir2022/organization/"> Doctoral Consortium </a> Co-Chair</li>
 <li>UMAP 2022 - JEDI (Justice, Equity, Diversity and Inclusion) Co-Chair</li>
 <li>RecSys 2021 - Inclusion & Accessibility Co-Chair</li>
 <li>UMAP 2021 - Co-chair for <a href="https://www.um.org/umap2021/call-for-contribution/call-for-papers#personalizedrecsys"> Personalized Recommender Systems track </a> </li>
