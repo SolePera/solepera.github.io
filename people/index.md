@@ -36,11 +36,6 @@ automatically takes care of laying out the alternating picture display.
 
     **Lawrence Spear** is a PhD student in Computer Science, working with Dr. Maria Soledad Pera. Before joining the PIReT Team, he had worked in industry for 20 years. Throughout his career, he has done R&D in the latest techniques in the industry whether it is more process oriented, such as Agile, Behavior Driven Development and Continuous Deployment; or more technical oriented, such as Machine Learning, Infrastructure as Code or .Net Core. His general research interest is information retrieval, such as how children discover new information and how different search engines have to handle non-Latin-based languages. He also has an intense passion for learning new knowledge and broadening his horizons.
 
--   ![Michael Green](../images/MichaelG_pic.jpg)
-    {: .pic}
-
-    **Michael Green** is a Second year Masters candidate in the Computer Science Department at Boise State. He received his Bachelors in English with a focus in Literature with a minor in Visual Art from Boise State University in 2008. He currently works as a Research Assistant with Dr. Sole Pera on subjects such as user type identification as well as evaluating Search Engine effectiveness in the classroom environment. He is also working on his 5th semester as a TA and Tutor for the Computer Science Department.
-
 -   ![Garret Allen](../images/GarrettA_pic.png)
     {: .pic}
 
@@ -51,6 +46,7 @@ automatically takes care of laying out the alternating picture display.
 
 
 ## Alumni
+**Michael Green (M.S.)**  *Why Don't You Act Your Age?: Recognizing the Stereotypical 8-12 Year Old Searcher by Their Search Behavior* <a href="https://scholarworks.boisestate.edu/td/1858/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
 
 **Ion Madrazo Azpiazu (Ph.D.)**  *Multilingual Information Retrieval: A representation building perspective* <a href="https://scholarworks.boisestate.edu/td/1612/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
 
