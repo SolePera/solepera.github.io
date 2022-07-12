@@ -1,6 +1,6 @@
 ---
 title: "Users Meet Clarifying Questions: Toward a Better Understanding of User Interactions for Search Clarification"
-date: 2020-07-01
+date: 2022-07-01
 project: tbd
 type: paper
 doi: 10.1145/3524110
