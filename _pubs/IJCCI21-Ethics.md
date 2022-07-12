@@ -1,13 +1,13 @@
 ---
 title: "Ethical Implications for Children's Use of Search Tools in an Educational Setting"
-date: 2021-12-06
+date: 2022-06-06
 project: ir-kids
 type: paper
 doi: 10.1016/j.ijcci.2021.100386
 ---
 
 {: .citation}
-Monica Landoni, Emiliana Murgia, Theo Huibers, and Maria Soledad Pera. 2021. ["Ethical Implications for Children's Use of Search Tools in an Educational Setting"](#). In <cite>International Journal of Child-Computer Interaction- Special Issue: Ethics in CCI</cite>. To appear. DOI:[10.1016/j.ijcci.2021.100386](https://doi.org/10.1016/j.ijcci.2021.100386).
+Monica Landoni, Emiliana Murgia, Theo Huibers, and Maria Soledad Pera. 2021. ["Ethical Implications for Children's Use of Search Tools in an Educational Setting"](#). In <cite>International Journal of Child-Computer Interaction- Special Issue: Ethics in CCI</cite>, Volume 32, June 2022, 100386. DOI:[10.1016/j.ijcci.2021.100386](https://doi.org/10.1016/j.ijcci.2021.100386).
 
 ## Abstract
 
@@ -15,4 +15,6 @@ In the classroom, search tools enable students to access online resources. While
 
 ## Links
 
+* [Paper PDF](https://www.sciencedirect.com/science/article/pii/S2212868921000842/pdfft?md5=962fa91cd0d2dd166af1e92d2333caf7&pid=1-s2.0-S2212868921000842-main.pdf)
 * [Published version](https://doi.org/10.1016/j.ijcci.2021.100386)
+
