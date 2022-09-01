@@ -14,6 +14,7 @@ header:
 <li>RecSys 2022 - <a href="https://recsys.acm.org/recsys22/"> Doctoral Symposium </a> Co-Chair</li>
 <li>SIGIR 2022 - <a href="https://sigir.org/sigir2022/organization/"> Doctoral Consortium </a> Co-Chair</li>
 <li>UMAP 2022 - JEDI (Justice, Equity, Diversity and Inclusion) Co-Chair</li>
+<li>HT 2022 - JEDI (Justice, Equity, Diversity and Inclusion) Co-Chair</li>
 <li>RecSys 2021 - Inclusion & Accessibility Co-Chair</li>
 <li>UMAP 2021 - Co-chair for <a href="https://www.um.org/umap2021/call-for-contribution/call-for-papers#personalizedrecsys"> Personalized Recommender Systems track </a> </li>
 <li>RecSys 2020 - Inclusion & Accessibility Chair</li>
@@ -56,10 +57,11 @@ header:
 <ul>
 <ul>
     <li>ACM Conference on Special Interest Group on Information Retrieval 2020-Present (senior PC) (<a href="https://sigir.org/sigir2021/">site</a>)</li>
-    <li>ACM Conference on Recommender Systems 2014 / 17; 2019-Present (senior PC) (<a href="https://recsys.acm.org/recsys21/">site</a>)</li>
+    <li>2nd Workshop: Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2022) - co-located with ACM RecSys (<a href="https://perspectives-ws.github.io/2022/">site</a>)</li>
+    <li>ACM Conference on Recommender Systems 2014 / 17; 2019-Present (senior PC) (<a href="https://recsys.acm.org/recsys22/">site</a>)</li>
     <li>ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR) - 2022 (<a href="https://ai.ur.de/chiir2022/">site</a>)</li>
     <li>ACM Web Conference (WebConf) - User Modeling and Personalization Track - 2022 (<a href="https://www2022.thewebconf.org/cfp/research/umap/">site</a>)</li>
-    <li> ACM Conference on User Modeling, Adaptation, and Personalization 2019/20 (<a href="http://www.cyprusconferences.org/umap2019/"> site</a> )</li>
+    <li> ACM Conference on User Modeling, Adaptation, and Personalization 2019/20/22 (<a href="http://www.cyprusconferences.org/umap2019/"> site</a> )</li>
     <li>ACM Conference on Recommender Systems - LBR TRack 2020 (<a href="https://sigir.org/sigir2020/">site</a>)</li>
     <li> Latin American Web Congress 2019 (<a href="http://laweb2019.icomp.ufam.edu.br/">site</a> )</li>
 </ul>
