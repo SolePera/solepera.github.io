@@ -13,8 +13,12 @@ excerpt:
  <div>
     <h1> ABOUT </h1>
 
-After completing her Ph.D. in Computer Science at Brigham Young University in 2014, Dr. Maria Soledad Pera, a native of Argentina, joined Boise State University in the Department of Computer Science, where she is the co-director of the <a href = "http://piret.info/">People and Information Research Team (Piret)</a>. Sole's main area of expertise is in information retrieval and her current research work focuses on information retrieval systems that can better serve non-traditional users, such as children, teachers, and individuals who speak English as a second language. Sole is a co-PI in the ongoing NSF-funded project <a href = "https://cast.boisestate.edu/"> CAST (Child Adaptive Search Tool)</a>. She is also part of an international and interdisciplinary group of researchers interested in <a href = "https://www.fab4.science/"> advancing research pertaining to information retrieval systems that can support education</a>.
+Dr. Maria Soledad Pera is an Associate Professor at the <a href = "https://www.wis.ewi.tudelft.nl/"> Web Information Systems group</a>
+ of the Faculty of Electrical Engineering, Mathematics and Computer Science (EEMCS/EWI), <a href = "https://www.tudelft.nl/en/">Delft University of Technology</a>. Sole's main area of expertise is in Information Retrieval with emphasis on non-traditional populations. Her current research work focuses on understanding the limitations and designing the algorithmic support so that information access ystems (like search and recommender tools) can better serve all users (e.g., children, teachers, individuals who speak English as a second language) in different contexts (e.g., the classroom). 
 
+Sole remains the co-director of the <a href = "http://piret.info/">People and Information Research Team (Piret)</a> at Boise State University. She is also a co-PI in the ongoing NSF-funded project <a href = "https://cast.boisestate.edu/"> CAST (Child Adaptive Search Tool)</a>. She is part of an <a href = "https://www.fab4.science/"> international and interdisciplinary group of researchers</a> interested in advancing research pertaining to information retrieval systems that can support education.
+
+Prior to joining TU Delft, Sole (a native from Argentina) completed Ph.D. in Computer Science at Brigham Young University in 2014. She joined the Computer Science Department at Boise State University as an Assistant Professor in 2014, where she was promoted to Associated Professor with Tenure in 2019.
 
 <p><p><b>Research Interests:</b> <p>Information Retrieval, Web Search, Recommender Systems, Readability, Information Systems, Natural Language Processing, Machine Learning, Artificial Intelligence, Databases, System Analysis.</p></p></p>
 
