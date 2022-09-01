@@ -18,18 +18,14 @@ automatically takes care of laying out the alternating picture display.
 
 {: .student-list}
 
--   ![Devan Karsann](../images/Devan_pic.png)
-    {: .pic}
-
-    My name is **Devan Karsann** and I’m a first year master’s student in Computer Science. Dr. Sole Pera is my advisor and next semester I’m looking forward to starting my graduate project. I have a data set available to use and soon it will soon be time to defend the project proposal! During the school year I work 30 hours a week at AppDetex, a software startup in downtown Boise. This gives me to take 6 credits a semester and I’m happy about the balance. Right now I’m taking Introduction to Information Retrieval and Large-Scale Data Analysis and they’re both cool classes. My personal website can be found at <http://www.devankarsann.com>.
-
-
 -   ![Lawrence Spear](../images/Lawrence_pic.jpg)
     {: .pic}
 
     **Lawrence Spear** is a PhD student in Computer Science, working with Dr. Maria Soledad Pera. Before joining the PIReT Team, he had worked in industry for 20 years. Throughout his career, he has done R&D in the latest techniques in the industry whether it is more process oriented, such as Agile, Behavior Driven Development and Continuous Deployment; or more technical oriented, such as Machine Learning, Infrastructure as Code or .Net Core. His general research interest is information retrieval, such as how children discover new information and how different search engines have to handle non-Latin-based languages. He also has an intense passion for learning new knowledge and broadening his horizons.
 
 ## Alumni
+**Devan Karsann (M.S.)** *Framework for Facilitating Human Expert Review of Websites for Intellectual Property Infringements* (MS Project) 
+
 **Garrett Allen (M.S.)** *Training Wheels for Web Search: Multi-Perspective Learning to Rank to Support Children's Information Seeking in the Classroom* <a href="https://scholarworks.boisestate.edu/td/1891/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30"/></a>
 
 **Ashlee Milton (M.S.)**  *Into the Unknown: Exploration of Search Engines' Responses to Users with Depression and Anxiety* <a href="https://scholarworks.boisestate.edu/td/1854/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
@@ -55,3 +51,12 @@ automatically takes care of laying out the alternating picture display.
 **William Bigirimana (B.Sc.)**
 
 **Daniel Bakyono (B.Sc.)**
+
+**Sharon Guo (B.S.)**
+
+**Samantha Anguiano (B.S.)**
+
+**Abel Almeida (B.S.)**
+
+** Students from teh CAST project:  <a href="https://cast.boisestate.edu/about/people/" target="_blank"><img src="../images/CastLogo.png" alt="Link to CAST"  height="30" width="30" /></a>
+
