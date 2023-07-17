@@ -18,10 +18,10 @@ automatically takes care of laying out the alternating picture display.
 
 {: .student-list}
 
--   ![Lawrence Spear](../images/Lawrence_pic.jpg)
+-   ![AlisaRieger](../images/AlisaRieger.jpg)
     {: .pic}
 
-    **Lawrence Spear** is a PhD student in Computer Science, working with Dr. Maria Soledad Pera. Before joining the PIReT Team, he had worked in industry for 20 years. Throughout his career, he has done R&D in the latest techniques in the industry whether it is more process oriented, such as Agile, Behavior Driven Development and Continuous Deployment; or more technical oriented, such as Machine Learning, Infrastructure as Code or .Net Core. His general research interest is information retrieval, such as how children discover new information and how different search engines have to handle non-Latin-based languages. He also has an intense passion for learning new knowledge and broadening his horizons.
+    **Alisa Rieger** is a PhD candidate in the Web Information Systems group and an Early Stage Researcher in the NL4XAI project, supervised by Dr. Maria Soledad Pera. Currently, her <a href="https://www.wis.ewi.tudelft.nl/rieger" target="_blank">research </a> is focused on understanding web search on debated topics and mitigating cognitive biases that impede responsible opinion formation, for example, by boosting searchers’ intellectual humility. Before coming to TU Delft, Alisa obtained her BSc and MSc degrees in cognitive science and human-machine interaction from Chemnitz University of Technology.  
 
 ## Alumni
 **Devan Karsann (M.S.)** *Framework for Facilitating Human Expert Review of Websites for Intellectual Property Infringements* (MS Project) 
@@ -46,17 +46,19 @@ automatically takes care of laying out the alternating picture display.
 
 **Jennifer Ekstrand (M.Sc.)**
 
+**Lawrence Spear (PhD)**
+
 **David McNeill (B.Sc.)**
 
 **William Bigirimana (B.Sc.)**
 
 **Daniel Bakyono (B.Sc.)**
 
-**Sharon Guo (B.S.)**
+**Sharon Guo (B.Sc.)**
 
-**Samantha Anguiano (B.S.)**
+**Samantha Anguiano (B.Sc.)**
 
-**Abel Almeida (B.S.)**
+**Abel Almeida (B.Sc.)**
 
 ** Students from teh CAST project:  <a href="https://cast.boisestate.edu/about/people/" target="_blank"><img src="../images/CastLogo.png" alt="Link to CAST"  height="30" width="30" /></a>
 
