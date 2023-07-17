@@ -1,19 +1,19 @@
 ---
-title: "The Effect of Prolonged Exposure to Online Education on a Classroom Search Companion"
-date: 2022-09-09
+title: "Children on ChatGPT Readability in an Educational Context: Myth or Opportunity?"
+date: 2023-09-09
 project: ir-kids
 type: paper
-doi: 10.1007/978-3-031-13643-6_5
+doi: 10.1145/3563359.3596996
 ---
 
 {: .citation}
-Mohammad Aliannejadi, Theo Huibers, Monica Landoni, Emiliana Murgia, and Maria Soledad Pera. 2022. ["The Effect of Prolonged Exposure to Online Education on a Classroom Search Companion"](#). In <cite>International Conference of the Cross-Language Evaluation Forum for European Languages (CLEF 2022)</cite>. Online. DOI:[10.1007/978-3-031-13643-6_5](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_5)
+Emiliana Murgia, Theo Huibers, Monica Landoni, and Maria Soledad Pera. 2023. ["Children on ChatGPT Readability in an Educational Context: Myth or Opportunity?"](#). In <cite>IAdjunct Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2023)</cite>. Online. DOI:[10.1145/3563359.3596996](https://dl.acm.org/doi/10.1145/3563359.3596996)
 
 ## Abstract
 
-Exposure to technology impacts children’s perception and conceptualisation of the way devices they regularly use work. This prompts us to study if almost two years of online teaching, enabled by a broad range of technologies, have influenced the way children imagine a search companion would look and behave when helping them perform school-related search tasks. We conducted a 2-stage study during which children ages 9 to 11 drew and described their imaginary search companion; they also chose a few desirable and non-necessary traits. By following the protocol of a study conducted pre-pandemic, we contextualise salient altered expectations that we attribute to exposure to technology prompted by the COVID-19 pandemic. We highlight and discuss emerging trends observed from the analysis of data gathered before and after the extensive online experience and how these will guide the design of functionality of a search companion for the classroom.
+In this work, we present the results of a preliminary exploration aiming to understand whether the use of ChatGPT in an educational context can be an asset to meet the specific needs of the students. In particular, we focus on the possibility of adapting the responses to online inquiries related to the primary school curriculum to meet the expectations of readers with different literacy levels. The analysis of feedback elicited from children (9- to 10-year-olds) in three 4th grade classrooms indicates that ChatGPT can adapt its responses to the 4th grade level. However, it still needs improvement to reach the right level of readability. Outcomes from this work can inspire future research directions involving technologies like ChatGPT to adapt learning paths to suit a broad range of students with varied cognitive skills. The potential of such tools to support teachers in their effort to adapt to individual learning needs is still to be fully exploited.
 
 ## Links
 
-* [Published Version](https://link.springer.com/chapter/10.1007/978-3-031-13643-6_5)
-* [Proceedings](https://link.springer.com/book/10.1007/978-3-031-13643-6)
+* [Published Version](https://dl.acm.org/doi/10.1145/3563359.3596996)
+* [UMAP 2023](https://www.um.org/umap2023/)
