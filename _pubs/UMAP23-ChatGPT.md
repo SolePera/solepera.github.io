@@ -1,13 +1,13 @@
 ---
 title: "ChatGPT in the Classroom: A Preliminary Exploration on the Feasibility of Adapting ChatGPT to Support Children's Information Discovery"
-date: 2023-07-20
+date: 2023-09-09
 project: ir-kids
 type: paper
 doi: 10.1145/3563359.3597399
 ---
 
 {: .citation}
-Monica Landoni, Maria Soledad Pera, Emiliana Murgia, and Theo Huibers. 2023. ["ChatGPT in the Classroom: A Preliminary Exploration on the Feasibility of Adapting ChatGPT to Support Children's Information Discovery"](#). In <cite>Adjunct Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization</cite> (UMAP '23). ACM, 22 - 27 pp. DOI:[10.1145/3563359.3597399](https://doi.org/10.1145/3563359.3597399).
+Mohammad Aliannejadi, Theo Huibers, Monica Landoni, Emiliana Murgia, and Maria Soledad Pera. 2022. ["ChatGPT in the Classroom: A Preliminary Exploration on the Feasibility of Adapting ChatGPT to Support Children's Information Discovery"](#). In <cite>Adjunct Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2023)</cite>. ACM, pp. 22 - 27. DOI:[10.1145/3563359.3597399](https://dl.acm.org/doi/10.1145/3563359.3597399)
 
 ## Abstract
 
@@ -15,5 +15,5 @@ The influence of ChatGPT and similar models on education is being increasingly d
 
 ## Links
 
-* [Published version](https://doi.org/10.1145/3563359.3597399)
+* [Published Version](https://dl.acm.org/doi/10.1145/3563359.3597399)
 * [UMAP 2023](https://um.org/umap2023/)
