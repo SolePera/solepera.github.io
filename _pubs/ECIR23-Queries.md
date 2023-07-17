@@ -1,7 +1,7 @@
 ---
 title: "Where a Little Change Makes a Big Difference: A Preliminary Exploration of Children’s Queries"
 date: 2023-09-11
-project: kid-rec
+project: ir-kids
 type: paper
 doi: 10.1007/978-3-031-28238-6_43
 ---

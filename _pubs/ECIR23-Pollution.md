@@ -1,7 +1,7 @@
 ---
 title: "How does Information Pollution Challenge Children’s Right to Information Access?"
 date: 2023-09-11
-project: kid-rec
+project: ir-kids
 type: paper
 doi: https://pure.tudelft.nl/ws/portalfiles/portal/154643060/paper2_jot.pdf
 ---
