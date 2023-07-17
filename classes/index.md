@@ -1,3 +1,4 @@
+---
 title: Classes
 layout: splash
 header:
@@ -7,7 +8,6 @@ header:
     excerpt: "Classes I teach"
 
 ---
-
 
  <table style="width:100%">
   <tr>
