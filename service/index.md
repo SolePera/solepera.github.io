@@ -11,9 +11,9 @@ header:
 <h2>Conference Organization</h2>
 <ul>
 <ul>
-<li>IDC 2024 - <a href="https://idc.acm.org/2024/"></a> Co-Chair</li>
-<li>CIKM 2023 - <a href="https://uobevents.eventsair.com/cikm2023/"></a> Tutorial Chair</li>
-<li>UMAP 2023 - <a href="https://www.um.org/umap2023/"></a> Program Chair</li>
+<li>IDC 2024 - <a href="https://idc.acm.org/2024/"> General Chair </a></li>
+<li>CIKM 2023 - <a href="https://uobevents.eventsair.com/cikm2023/"> Tutorial Chair </a> </li>
+<li>UMAP 2023 - <a href="https://www.um.org/umap2023/"> Program Chair </a> </li>
 <li>SIGIR 2023 - <a href="https://sigir.org/sigir2023/organization/"> Doctoral Consortium </a> Co-Chair</li>
 <li>RecSys 2022 - <a href="https://recsys.acm.org/recsys22/"> Doctoral Symposium </a> Co-Chair</li>
 <li>SIGIR 2022 - <a href="https://sigir.org/sigir2022/organization/"> Doctoral Consortium </a> Co-Chair</li>
