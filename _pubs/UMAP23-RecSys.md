@@ -1,5 +1,5 @@
 ---
-title: "Have a Clue! The Effect of Visual Cues on Children’s Search Behavior in the Classroom"
+title: "Covering Covers : Characterization Of Visual Elements Regarding Sleeves"
 date: 2023-07-11
 project: kid-rec
 type: paper
