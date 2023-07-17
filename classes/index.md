@@ -5,28 +5,31 @@ header:
     overlay_image: /images/header-bg-nopic.jpg
 #%    overlay_image: /images/classHead.jpg
 #%    caption: "Photo by [Changbok Ko](https://unsplash.com/@kochangbok) on [Unsplash](https://unsplash.com/photos/F8t2VGnI47I)"
-    excerpt: "Classes I teach"
+#%    excerpt: "Classes I teach"
 
 ---
+Classes that I am involved with
 
  <table style="width:100%">
   <tr>
     <th>Class</th>
     <th>Description</th>
     <th>Dates</th>
-        </tr>
+  </tr>
   <tr>
       <td><b>CSE 3000:</b><br>Research Project</td>
     <td>Mentor and supervisor for this course which comprises an individual research project on a selected topic within computer science, supervised by an active researcher in the field. It should result in a scientific paper describing the research question, results, conclusions, and reflection.</td>
     <td><font size="3"><i>Q2(22/23); Q4(22/23)</i></font></td>
   </tr>
-      <tr>
+   <tr>
    <td><b>IN 4325:</b><br> Information Retrieval</td>
     <td> The course provides students basic information retrieval concepts and more advanced techniques for efficient data processing, storage, and querying. Students are also provided with a rich and comprehensive catalog of information search tools that can be exploited in designing and implementing Web and Enterprise search engines. Topics covered include: Information Retrieval Models; Indexing Techniques;
 Web Search; Recommender Systems; Evaluation of information retrieval systems.
 </td>
     <td><font size="3"><i>Q3(22/23)</i></font></td>
   </tr>
+     <tr>
+     </tr>   
      <tr>
       <td><b>CS 361:</b><br>Introduction to the Theory of Computation</td>
     <td>Regular languages, finite automata, context-free languages, pushdown automata, Turing machines, decidability, introduction to reducibility and computational complexity.</td>
