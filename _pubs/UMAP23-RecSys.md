@@ -7,7 +7,7 @@ doi: 10.1145/3563359.3597404
 ---
 
 {: .citation} 
-Beyhan, Yessin and Pera, Maria Soledad. ["Covering Covers: Characterization Of Visual Elements Regarding Sleeves"](#). In <cite>Adjunct Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization.</cite> ACM, 2023. pp. 28-33. DOI:[10.1145/3563359.3597404](https://doi.org/10.1145/3563359.3597404).
+Beyhan, Yessin and Pera, Maria Soledad. ["Covering Covers: Characterization Of Visual Elements Regarding Sleeves"](#). In <cite>Adjunct Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization.</cite> ACM, 2023. pp. 28-33. DOI:[10.1145/3563359.3597404](https://doi.org/10.1145/3563359.3597404)
 
 ## Abstract
 
