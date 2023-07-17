@@ -7,7 +7,7 @@ doi: 10.1145/3563359.3597399
 ---
 
 {: .citation}
-Emiliana Murgia, Zahra Abbasiantaeb, Mohammad Aliannejadi, Theo Huibers, Monica Landoni, and Maria Soledad Pera. 2023. ["ChatGPT in the Classroom: A Preliminary Exploration on the Feasibility of Adapting ChatGPT to Support Children's Information Discovery"](#). In <cite>UMAP 2023 - Adjunct Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization</cite>. pp 22-27. DOI:[10.1145/3524110](https://doi.org/10.1145/3563359.3597399)
+Emiliana Murgia, Zahra Abbasiantaeb, Mohammad Aliannejadi, Theo Huibers, Monica Landoni, and Maria Soledad Pera. 2023. ["ChatGPT in the Classroom: A Preliminary Exploration on the Feasibility of Adapting ChatGPT to Support Children's Information Discovery"](#). In <cite>UMAP 2023 - Adjunct Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization</cite>. ACM, pp 22-27. DOI:[10.1145/3563359.3597399]https://doi.org/10.1145/3563359.3597399)
 
 ## Abstract
 
