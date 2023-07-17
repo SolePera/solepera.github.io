@@ -11,6 +11,10 @@ header:
 <h2>Conference Organization</h2>
 <ul>
 <ul>
+<li>IDC 2024 - <a href="https://idc.acm.org/2024/"></a> Co-Chair</li>
+<li>CIKM 2023 - <a href="https://uobevents.eventsair.com/cikm2023/"></a> Tutorial Chair</li>
+<li>UMAP 2023 - <a href="https://www.um.org/umap2023/"></a> Program Chair</li>
+<li>SIGIR 2023 - <a href="https://sigir.org/sigir2023/organization/"> Doctoral Consortium </a> Co-Chair</li>
 <li>RecSys 2022 - <a href="https://recsys.acm.org/recsys22/"> Doctoral Symposium </a> Co-Chair</li>
 <li>SIGIR 2022 - <a href="https://sigir.org/sigir2022/organization/"> Doctoral Consortium </a> Co-Chair</li>
 <li>UMAP 2022 - JEDI (Justice, Equity, Diversity and Inclusion) Co-Chair</li>
@@ -57,6 +61,7 @@ header:
 <ul>
 <ul>
     <li>ACM Conference on Special Interest Group on Information Retrieval 2020-Present (senior PC) (<a href="https://sigir.org/sigir2021/">site</a>)</li>
+    <li>European Conference on Information Retrieval (ECIR) 2022-Present (<a href="https://ecir2023.org/">site</a>)</li>
     <li>2nd Workshop: Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2022) - co-located with ACM RecSys (<a href="https://perspectives-ws.github.io/2022/">site</a>)</li>
     <li>ACM Conference on Recommender Systems 2014 / 17; 2019-Present (senior PC) (<a href="https://recsys.acm.org/recsys22/">site</a>)</li>
     <li>ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR) - 2022 (<a href="https://ai.ur.de/chiir2022/">site</a>)</li>
