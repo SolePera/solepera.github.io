@@ -7,6 +7,7 @@ header:
 
 ---
 
+Please see below for a selection of recent leadership and management activities
 
 <h2>Conference Organization</h2>
 <ul>
