@@ -6,7 +6,8 @@ type: paper
 doi: 10.1145/3563359.3597404
 ---
 
-{: .citation} Beyhan, Yessin ; Pera, Maria Soledad. [Covering Covers: Characterization Of Visual Elements Regarding Sleeves](#). In <cite> UMAP 2023 - Adjunct Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization.</cite> Association for Computing Machinery (ACM), 2023. pp. 28-33.DOI:[10.1145/3563359.3597404](https://doi.org/10.1145/3563359.3597404).
+{: .citation} 
+Beyhan, Yessin and Pera, Maria Soledad. ["Covering Covers: Characterization Of Visual Elements Regarding Sleeves"](#). In <cite> UMAP 2023 - Adjunct Proceedings of the 31st ACM Conference on User Modeling, Adaptation and Personalization.</cite> Association for Computing Machinery (ACM), 2023. pp. 28-33. DOI:[10.1145/3563359.3597404](https://doi.org/10.1145/3563359.3597404).
 
 ## Abstract
 
@@ -14,5 +15,4 @@ The aim of this work is to explore common traits preferred across different age 
 
 
 ## Links
-
 * [Proceedings](https://doi.org/10.1145/3563359.3597404)
