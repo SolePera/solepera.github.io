@@ -1,4 +1,3 @@
----
 title: Classes
 layout: splash
 header:
@@ -15,8 +14,19 @@ header:
     <th>Class</th>
     <th>Description</th>
     <th>Dates</th>
-  </tr>
   <tr>
+      <td><b>CSE 3000:</b><br>Research Project</td>
+    <td>Mentor and supervisor for this course which comprises an individual research project on a selected topic within computer science, supervised by an active researcher in the field. It should result in a scientific paper describing the research question, results, conclusions, and reflection.</td>
+    <td><font size="3"><i>Q2(22/23); Q4(22/23)</i></font></td>
+  </tr>
+  </tr>
+   <td><b>IN 4325:</b><br> Information Retrieval</td>
+    <td> The course provides students basic information retrieval concepts and more advanced techniques for efficient data processing, storage, and querying. Students are also provided with a rich and comprehensive catalog of information search tools that can be exploited in designing and implementing Web and Enterprise search engines. Topics covered include: Information Retrieval Models; Indexing Techniques;
+Web Search; Recommender Systems; Evaluation of information retrieval systems.
+</td>
+    <td><font size="3"><i>Q3(22/23)</i></font></td>
+  </tr>
+     <tr>
       <td><b>CS 361:</b><br>Introduction to the Theory of Computation</td>
     <td>Regular languages, finite automata, context-free languages, pushdown automata, Turing machines, decidability, introduction to reducibility and computational complexity.</td>
     <td><font size="3"><i>Fall 2014, Fall 2015, Spring 2016, Summer 2016, Spring 2017, Spring 2018, Fall 2018, Spring 2019, Spring 2020, Fall 2020, Spring 2021, Spring 2022</i></font></td>
