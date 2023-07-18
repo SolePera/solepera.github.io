@@ -52,6 +52,4 @@ Prior to joining TU Delft, Sole (a native of Argentina) completed Ph.D. in Compu
 
 </div>
 
-<div class="tl-embed">
-<a class="twitter-timeline" data-height="1000" data-dnt="true" href="https://twitter.com/DrCh0le">Tweets by Dr. Pera</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+
