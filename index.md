@@ -18,7 +18,7 @@ Dr. Maria Soledad Pera is an Associate Professor at the <a href = "https://www.w
 <p>
 Sole remains the co-PI in the ongoing NSF-funded project <a href = "https://cast.boisestate.edu/"> CAST (Child Adaptive Search Tool)</a>. She is part of an <a href = "https://www.fab4.science/"> international and interdisciplinary group of researchers</a> interested in advancing research pertaining to information retrieval systems that can support education.</p>
 <p>
-Prior to joining TU Delft, Sole (a native of Argentina) completed Ph.D. in Computer Science at Brigham Young University in 2014. She joined the Computer Science Department at Boise State University as an Assistant Professor in 2014, where she was promoted to Associated Professor with Tenure in 2019. While at Boise State, she was the co-director of the <a href = "http://piret.info/">People and Information Research Team (Piret)</a> alongside  <a href = "https://md.ekstrandom.net/">Dr. Michael Extrand</a>. </p>
+Prior to joining TU Delft, Sole (a native of Argentina) completed Ph.D. in Computer Science at Brigham Young University in 2014. She joined the Computer Science Department at Boise State University as an Assistant Professor in 2014, where she was promoted to Associate Professor with Tenure in 2019. While at Boise State, she was the co-director of the <a href = "http://piret.info/">People and Information Research Team (Piret)</a> alongside  <a href = "https://md.ekstrandom.net/">Dr. Michael Ektrand</a>. </p>
 
 <p><p><b>Research Interests:</b> <p>Information Retrieval, Information Access, Web Search, Recommender Systems, User Modeling, Readability, Natural Language Processing, Machine Learning, Artificial Intelligence, Databases, System Analysis.</p></p></p>
  <br>
