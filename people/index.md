@@ -23,6 +23,11 @@ automatically takes care of laying out the alternating picture display.
 
     **Alisa Rieger** is a PhD candidate in the Web Information Systems group and an Early Stage Researcher in the NL4XAI project, supervised by Dr. Maria Soledad Pera. Currently, her <a href="https://www.wis.ewi.tudelft.nl/rieger" target="_blank">research </a> is focused on understanding web search on debated topics and mitigating cognitive biases that impede responsible opinion formation, for example, by boosting searchers’ intellectual humility. Before coming to TU Delft, Alisa obtained her BSc and MSc degrees in cognitive science and human-machine interaction from Chemnitz University of Technology.  
 
+-   ![Robin Ungruh](../images/RobinUngruh.jpg)
+    {: .pic}
+
+    **Robin Ungruh** is PhD candidate in the Web Information Systems group at TU Delft, supervised by Dr. Maria Soledad Pera. He obtained a BSc in Human-Computer-Interaction from the University of Hamburg and an MSc in Human-Computer-Interaction from Utrecht University. 
+His research is centered on unraveling the complexities of children's interactions with recommender systems, aiming to understand their experiences and developing methods to ensure safe interactions within this vulnerable user group.  
 ## Alumni
 **Devan Karsann (M.Sc.)** *Framework for Facilitating Human Expert Review of Websites for Intellectual Property Infringements* (MS Project) 
 
