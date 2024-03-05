@@ -12,6 +12,7 @@ Please see below for a selection of recent leadership and management activities
 <h2>Conference Organization</h2>
 <ul>
 <ul>
+<li>CIKM 2024 - <a href="https://idc.acm.org/2024/"> Program Chair </a></li>
 <li>IDC 2024 - <a href="https://idc.acm.org/2024/"> General Chair </a></li>
 <li>CIKM 2023 - <a href="https://uobevents.eventsair.com/cikm2023/"> Tutorial Chair </a> </li>
 <li>UMAP 2023 - <a href="https://www.um.org/umap2023/"> Program Chair </a> </li>
