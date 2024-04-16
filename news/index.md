@@ -15,7 +15,8 @@ header:
 {% capture year %}{{pub.date | date:'%Y'}}{% endcapture %}
 {% assign cur = year %}
     <div class="grid-item">
-    <a href = "{{ pub.picture }}"> <img src="{{ pub.picture }}" alt="Photo of a {{ pub.title | downcase }}" style="float:left;width:300px;"> </a>
+    <a href = "{{ pub.picture }}"> <img src="{{ pub.picture }}" alt="Photo of a {{ pub.title | downcase }}" style="width:300px;height:300px;object-fit:contain;"></a>
+    <br>
     <a href="{{ pub.link }}">{{ pub.title }}</a>    
     </div>
 {% endfor %}
