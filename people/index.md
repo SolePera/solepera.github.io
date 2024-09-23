@@ -17,7 +17,11 @@ automatically takes care of laying out the alternating picture display.
 {:/comment}
 
 {: .student-list}
+-   ![Hrishita Chakrabarti](../images/Hrishita.png)
+    {: .pic}
 
+    **Hrishita Chakrabarti** is a PhD candidate in the Web Information Systems group at TU Delft with Dr. Maria Soledad Pera as her supervisor. She received her B.Tech in Computer Science and Engineering from VIT Vellore and her MSc in Computer Science from TU Delft. For her master's thesis, <a href="https://repository.tudelft.nl/record/uuid:51442134-01c0-4e01-9ff3-6f7bbafdac14" target="_blank">research </a>   “Much ado about Accessibility”, she empirically explored the accessibility of responses of popular online information-seeking tools to autistic users.  As a part of the “Scaffolding to foster independence when children search Online for Learning” (SOL) project, her current research investigates the scaffolding needed in online search tools to improve search literacy skills in children as they search for information in a classroom setting.
+    
 -   ![Robin Ungruh](../images/RobinUngruh.jpg)
     {: .pic}
 
