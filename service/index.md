@@ -12,6 +12,7 @@ Please see below for a selection of recent leadership and management activities
 <h2>Conference Organization</h2>
 <ul>
 <ul>
+<li>RecSys 2025 - <a href="https://recsys.acm.org/recsys25/"> Program Chair </a></li>
 <li>CIKM 2024 - <a href="https://idc.acm.org/2024/"> Program Chair </a></li>
 <li>IDC 2024 - <a href="https://idc.acm.org/2024/"> General Chair </a></li>
 <li>CIKM 2023 - <a href="https://uobevents.eventsair.com/cikm2023/"> Tutorial Chair </a> </li>
@@ -49,13 +50,15 @@ Please see below for a selection of recent leadership and management activities
 <h2>Workshop Organization</h2>
 <ul>
 <ul>
-<li>6th International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '22 Interaction Design and Children. ( <a href ="https://kidrec.github.io/">site</a>)</li>
+<li>2nd workshop on Information Retrieval for Understudied Users (IR4U2)  in conjunction with ACM SIGIR 2025. ( <a href ="https://ir4u2workshop.wixsite.com/ir4u2-2">site</a>)</li>
+<li>1st workshop on Information Retrieval for Understudied Users (IR4U2) in conjunction with ECIR `24. ( <a href ="https://ir4u2workshop.wixsite.com/ir4u2">site</a>)</li>
+<li>6th International Workshop on Children and Recommender Systems (KidRec) in conjunction with IDC '22 Interaction Design and Children. ( <a href ="https://kidrec.github.io/">site</a>)</li>
 <li>IR for Children:2000-2020. Where are they now? in conjunction with of ACM SIGIR 21. (<a href ="http://www.fab4.science/IR4Kids/">site</a> )</li>
 <li>Fifth Workshop on Recommendation in Complex Environments (ComplexRec) -- Co-located with RecSys 2021. (<a href ="https://complexrec2021.aau.dk/">site</a>)</li>
-<li>5th International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '21 Interaction Design and Children. ( <a href ="https://kidrec.github.io/">site</a>)</li>
-<li>4th International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '20 Interaction Design and Children. (<a href ="https://kidrec.github.io/">site</a>)</li>   
-<li>3rd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '19 Interaction Design and Children. (<a href = "https://kidrec.github.io/2019/">site</a>)</li>
-<li>2nd International Workshop on Children and Recommender Systems (KidRec) in conjunction with of IDC '18: Interaction Design and Children. (<a href="https://kidrec.github.io/2018/">site</a>) </li>
+<li>5th International Workshop on Children and Recommender Systems (KidRec) in conjunction with IDC '21 Interaction Design and Children. ( <a href ="https://kidrec.github.io/">site</a>)</li>
+<li>4th International Workshop on Children and Recommender Systems (KidRec) in conjunction with IDC '20 Interaction Design and Children. (<a href ="https://kidrec.github.io/">site</a>)</li>   
+<li>3rd International Workshop on Children and Recommender Systems (KidRec) in conjunction with IDC '19 Interaction Design and Children. (<a href = "https://kidrec.github.io/2019/">site</a>)</li>
+<li>2nd International Workshop on Children and Recommender Systems (KidRec) in conjunction with IDC '18: Interaction Design and Children. (<a href="https://kidrec.github.io/2018/">site</a>) </li>
 </ul>
 </ul>
 
