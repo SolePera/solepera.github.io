@@ -1,6 +1,6 @@
 ---
-title: "1st workshop on Information Retrieval for Understudied Users - colocated with ECIR 2024"
-link: "https://ir4u2workshop.wixsite.com/ir4u2"
+title: "2nd workshop on Information Retrieval for Understudied Users - co-located with SIGIR 2025"
+link: "https://ir4u2workshop.wixsite.com/ir4u2-2"
 picture: ../images/IR4U2.png
-date: 2024-01-10
+date: 2025-06-10
 ---
