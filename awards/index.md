@@ -17,7 +17,7 @@ toc: true
 <hr>
 <br>
 <br>
-<a href="https://www.youtube.com/watch?v=uK1rz9ds880&list=PLaZufLfJumb-To5WwHavmBzk9m2OJX_bD&index=71">Women In RecSys - Journal Paper of the Year Awards</a>
+<a href="https://www.youtube.com/watch?v=uK1rz9ds880&list=PLaZufLfJumb-To5WwHavmBzk9m2OJX_bD&index=71">Women In RecSys - Journal Paper of the Year Awards</a> <a href="https://www.youtube.com/watch?v=uK1rz9ds880&list=PLaZufLfJumb-To5WwHavmBzk9m2OJX_bD&index=71"><img src="../images/videoIcon.png" alt="presentation video"  height="30" width="30" /></a>
 <hr>
 <br>
 <a href="https://nsf2026imgallery.skild.com/entries/equity-beneficence-in-sociotech-system">NSF 2026 Big Idea Machine: Equity and Beneficence in Sociotech System</a>
