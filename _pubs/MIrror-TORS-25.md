@@ -1,13 +1,12 @@
 ---
-title: Mirror, Mirror: Exploring Stereotype Presence Among Top-N Recommendations That May Reach Children
+title: "Mirror, Mirror: Exploring Stereotype Presence Among Top-N Recommendations That May Reach Children"
 date: 2025-01-15
 Project:
 type: Paper
 doi: 10.1145/3721987
 ---
-
 {: .citation}
-Robin Ungruh, Murtadha Al Nahadi, Maria Soledad Pera. 2025. ["Mirror, Mirror: Exploring Stereotype Presence Among Top-N Recommendations That May Reach Children"](#). In <cite>ACM Transactions on Recommender Systems</cite>.  DOI:[10.1145/3721987](https://doi.org/10.1145/3721987)
+Robin Ungruh, Murtadha Al Nahadi, Maria Soledad Pera. 2025. ["Mirror, Mirror: Exploring Stereotype Presence Among Top-N Recommendations That May Reach Children"](#). In <cite>ACM Transactions on Recommender Systems</cite>.  doi:[10.1145/3721987](https://doi.org/10.1145/3721987)
 
 ## Abstract
 
