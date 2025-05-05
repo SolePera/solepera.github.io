@@ -10,7 +10,15 @@ toc: true
 ---
 
 # Awards
- <hr>
+<hr>
+<br>
+<br>
+<a href="https://www.linkedin.com/posts/robin-ungruh_what-an-incredible-two-recsys-weeks-in-bari-activity-7253794615365898240-arrx/"> ACM RecSys 2024 - Best Full paper Runner Up for "Putting Popularity Bias Mitigation to the Test: A User-Centric Evaluation in Music Recommenders"</a>
+<hr>
+<br>
+<br>
+<a href="https://www.youtube.com/watch?v=uK1rz9ds880&list=PLaZufLfJumb-To5WwHavmBzk9m2OJX_bD&index=71">Women In RecSys - Journal Paper of the Year Awards</a>
+<hr>
 <br>
 <a href="https://nsf2026imgallery.skild.com/entries/equity-beneficence-in-sociotech-system">NSF 2026 Big Idea Machine: Equity and Beneficence in Sociotech System</a>
 
