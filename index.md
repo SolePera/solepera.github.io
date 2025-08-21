@@ -18,7 +18,7 @@ Dr. Maria Soledad Pera is an Associate Professor at the <a href = "https://www.w
 <p>
 Sole is a co-PI in the ongoing SNSF-funded project <a href = "https://data.snf.ch/grants/grant/10000973"> “Scaffolding to foster independence when children search Online for Learning” (SOL)</a>. 
 <p>
-Prior to joining TU Delft, Sole (a native of Argentina) completed Ph.D. in Computer Science at Brigham Young University in 2014. She joined the Computer Science Department at Boise State University as an Assistant Professor in 2014, where she was promoted to Associate Professor with Tenure in 2019. While at Boise State, Sole was  a co-PI in the NSF-funded project <a href = "https://cast.boisestate.edu/"> CAST (Child Adaptive Search Tool)</a>. She was the co-director of the <a href = "http://piret.info/">People and Information Research Team (Piret)</a> alongside  <a href = "https://md.ekstrandom.net/">Dr. Michael Ektrand</a>. </p>
+Prior to joining TU Delft, Sole (a native of Argentina) completed Ph.D. in Computer Science at Brigham Young University in 2014. She joined the Computer Science Department at Boise State University as an Assistant Professor in 2014, where she was promoted to Associate Professor with Tenure in 2019. While at Boise State, Sole was  a co-PI in the NSF-funded project <a href = "https://cast.boisestate.edu/"> CAST (Child Adaptive Search Tool)</a>. She was the co-director of the <a href = "http://piret.info/">People and Information Research Team (Piret)</a> alongside  <a href = "https://md.ekstrandom.net/">Dr. Michael Ekstrand</a>. </p>
 
 <p><p><b>Research Interests:</b> <p>Information Retrieval, Recommender Systems, Information Access, Web Search, User Modeling, Readability Analysis, Artificial Intelligence, Natural Language Processing, Machine Learning.</p></p></p>
  <br>
@@ -50,6 +50,6 @@ Prior to joining TU Delft, Sole (a native of Argentina) completed Ph.D. in Compu
    <br>Universidad Tecnologica Nacional, Rosario, Argentina
 </p>
 
-</div>
+
 
 
