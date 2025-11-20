@@ -1,6 +1,6 @@
 ---
 title: "From Previous Plays to Long-Term Tastes: Exploring the Long-term Reliability of Recommender Systems Simulations for Children"
-date: 2025-09-04
+date: 2002-09-04
 project: 
 type: conference
 doi: 10.1145/3705328.375930
