@@ -12,6 +12,7 @@ Please see below for a selection of recent leadership and management activities
 <h2>Conference Organization</h2>
 <ul>
 <ul>
+<li>UMAP 2026 - <a href="https://www.um.org/umap2026/"> Workshop and Tutorial Chair </a></li>
 <li>RecSys 2025 - <a href="https://recsys.acm.org/recsys25/"> Program Chair </a></li>
 <li>CIKM 2024 - <a href="https://idc.acm.org/2024/"> Program Chair </a></li>
 <li>IDC 2024 - <a href="https://idc.acm.org/2024/"> General Chair </a></li>
@@ -41,7 +42,7 @@ Please see below for a selection of recent leadership and management activities
     <li>ACM Conference on Recommender Systems 2014 / 17; 2019-Present (senior PC) (<a href="https://recsys.acm.org/recsys22/">site</a>)</li>
     <li>ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR) - 2022 (<a href="https://ai.ur.de/chiir2022/">site</a>)</li>
     <li>ACM Web Conference (WebConf) - User Modeling and Personalization Track - 2022 (<a href="https://www2022.thewebconf.org/cfp/research/umap/">site</a>)</li>
-    <li> ACM Conference on User Modeling, Adaptation, and Personalization 2019/20/22 (<a href="http://www.cyprusconferences.org/umap2019/"> site</a> )</li>
+    <li> ACM Conference on User Modeling, Adaptation, and Personalization 2019-Present (<a href="http://www.cyprusconferences.org/umap2019/"> site</a> )</li>
     <li>ACM Conference on Recommender Systems - LBR TRack 2020 (<a href="https://sigir.org/sigir2020/">site</a>)</li>
     <li> Latin American Web Congress 2019 (<a href="http://laweb2019.icomp.ufam.edu.br/">site</a> )</li>
 </ul>
@@ -53,7 +54,7 @@ Please see below for a selection of recent leadership and management activities
 <li>2nd workshop on Information Retrieval for Understudied Users (IR4U2)  in conjunction with ACM SIGIR 2025. ( <a href ="https://ir4u2workshop.wixsite.com/ir4u2-2">site</a>)</li>
 <li>1st workshop on Information Retrieval for Understudied Users (IR4U2) in conjunction with ECIR `24. ( <a href ="https://ir4u2workshop.wixsite.com/ir4u2">site</a>)</li>
 <li>6th International Workshop on Children and Recommender Systems (KidRec) in conjunction with IDC '22 Interaction Design and Children. ( <a href ="https://kidrec.github.io/">site</a>)</li>
-<li>IR for Children:2000-2020. Where are they now? in conjunction with of ACM SIGIR 21. (<a href ="http://www.fab4.science/IR4Kids/">site</a> )</li>
+<li>IR for Children:2000-2020. Where are they now? in conjunction with ACM SIGIR 21. (<a href ="http://www.fab4.science/IR4Kids/">site</a> )</li>
 <li>Fifth Workshop on Recommendation in Complex Environments (ComplexRec) -- Co-located with RecSys 2021. (<a href ="https://complexrec2021.aau.dk/">site</a>)</li>
 <li>5th International Workshop on Children and Recommender Systems (KidRec) in conjunction with IDC '21 Interaction Design and Children. ( <a href ="https://kidrec.github.io/">site</a>)</li>
 <li>4th International Workshop on Children and Recommender Systems (KidRec) in conjunction with IDC '20 Interaction Design and Children. (<a href ="https://kidrec.github.io/">site</a>)</li>   
@@ -65,7 +66,11 @@ Please see below for a selection of recent leadership and management activities
 <h2>Other activities</h2>
 <ul>
 <ul>
-<li> Co-Editor for upcoming special issue of the Human-Computer Interaction journal focused on
+  <li> Chair of the 
+  <a href="https://sigir.org/general-information/travel-grants/"> SIGIR Student Travel Program (2023-2026) </a></li>
+  <li> Co-Editor for the special issue of the International Journal of Human-Computer Studies focused on
+  <a href="https://www.sciencedirect.com/special-issue/109VBW0FXQ4"> Re-centering the User in Recommender System Research </a></li>
+  <li> Co-Editor for the special issue of the Human-Computer Interaction journal focused on
   <a href="https://www.madpickle.net/hcij/publicInfo/cfp_dca.pdf"> Intelligent Systems for People with Diverse Cognitive Abilities </a></li>
 <li>Reviewer </li>
 <ul>
