@@ -31,6 +31,10 @@ His research is centered on unraveling the complexities of children's interactio
 ## Alumni
 **Alisa Rieger (Ph.D.)** *Striving for Responsible Opinion Formation in Web Search on Debated Topics*<a href="https://research.tudelft.nl/en/publications/striving-for-responsible-opinion-formation-in-web-search-on-debat/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30"/></a>
 
+**Ion Madrazo Azpiazu (Ph.D.)**  *Multilingual Information Retrieval: A representation building perspective* <a href="https://scholarworks.boisestate.edu/td/1612/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
+
+**Bachelor and Master Thesis** *Students mentored and supervised at TU Delft* <a href="(https://repository.tudelft.nl/person/supervised/Person_d346e293-cb39-4b15-a729-5a92da92b9ac?page=1" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
+
 **Devan Karsann (M.Sc.)** *Framework for Facilitating Human Expert Review of Websites for Intellectual Property Infringements* (MS Project) 
 
 **Garrett Allen (M.Sc.)** *Training Wheels for Web Search: Multi-Perspective Learning to Rank to Support Children's Information Seeking in the Classroom* <a href="https://scholarworks.boisestate.edu/td/1891/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30"/></a>
@@ -38,8 +42,6 @@ His research is centered on unraveling the complexities of children's interactio
 **Ashlee Milton (M.Sc.)**  *Into the Unknown: Exploration of Search Engines' Responses to Users with Depression and Anxiety* <a href="https://scholarworks.boisestate.edu/td/1854/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
 
 **Michael Green (M.Sc.)**  *Why Don't You Act Your Age?: Recognizing the Stereotypical 8-12 Year Old Searcher by Their Search Behavior* <a href="https://scholarworks.boisestate.edu/td/1858/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
-
-**Ion Madrazo Azpiazu (Ph.D.)**  *Multilingual Information Retrieval: A representation building perspective* <a href="https://scholarworks.boisestate.edu/td/1612/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
 
 **Axel Magnuson (M.Sc.)**   *Evaluation of Topic Models for Content-Based Popularity Prediction on Social Microblogs* <a href="https://scholarworks.boisestate.edu/td/1080/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30" /></a>
 
