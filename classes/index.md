@@ -16,17 +16,29 @@ Classes that I am involved with
     <th>Description</th>
     <th>Dates</th>
   </tr>
+     <tr>
+   <td><b>DSAIT 4500:</b><br> Responsible Data Science and AI Engineering</td>
+    <td> The goal of this course is to support students in further developing a responsible attitude that will contribute to the role you play in your future career. Students will learn to make and reflect on choices related to Responsible Data Science and AI Engineering with an ethical and sustainable stance and act with integrity. They will engage with social, organizational, professional, and technical aspects of developing DSAIT, from both systems and human-centric perspectives. Topics discussed include human agency and oversight, algorithmic robustness and safety, privacy and data governance, transparency, non-discrimination, fairness, inclusivity, accessibility, and accountability.
+</td>
+    <td><font size="3"><i>Q3(24/25)</i></font></td>
+  </tr>
+    <tr>
+   <td><b>DSAIT 4210:</b><br> Research in Web Data andd Information Management</td>
+    <td> In this course, we discuss recent developments in the area of web information systems. We discuss this content while learning about the role of scientific communication and about the scientific methodologies and approaches for conducting research in the area.
+</td>
+    <td><font size="3"><i>Q1(22/23); Q1(23/24); Q4(24/25)</i></font></td>
+  </tr>
   <tr>
       <td><b>CSE 3000:</b><br>Research Project</td>
-    <td>Mentor and supervisor for this course which comprises an individual research project on a selected topic within computer science, supervised by an active researcher in the field. It should result in a scientific paper describing the research question, results, conclusions, and reflection.</td>
-    <td><font size="3"><i>Q2(22/23); Q4(22/23)</i></font></td>
+    <td>Mentor and supervisor for this course, which comprises an individual research project on a selected topic within computer science, supervised by an active researcher in the field. It should result in a scientific paper describing the research question, results, conclusions, and reflection.</td>
+    <td><font size="3"><i>Q2(22/23); Q4(22/23); Q4(23/24); Q4(24/25)</i></font></td>
   </tr>
    <tr>
-   <td><b>IN 4325:</b><br> Information Retrieval</td>
+   <td><b>DSAIT 4050:</b><br> Information Retrieval</td>
     <td> The course provides students basic information retrieval concepts and more advanced techniques for efficient data processing, storage, and querying. Students are also provided with a rich and comprehensive catalog of information search tools that can be exploited in designing and implementing Web and Enterprise search engines. Topics covered include: Information Retrieval Models; Indexing Techniques;
 Web Search; Recommender Systems; Evaluation of information retrieval systems.
 </td>
-    <td><font size="3"><i>Q3(22/23)</i></font></td>
+    <td><font size="3"><i>Q3(22/23); Q3(23/24); Q3(24/25)</i></font></td>
   </tr>
      <tr>
      </tr>   
