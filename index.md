@@ -14,7 +14,8 @@ excerpt:
     <h1> ABOUT </h1>
 
 Dr. Maria Soledad Pera is an Associate Professor at the <a href = "https://www.wis.ewi.tudelft.nl/"> Web Information Systems group</a>
- of the Faculty of Electrical Engineering, Mathematics and Computer Science (EWI), <a href = "https://www.tudelft.nl/en/">Delft University of Technology</a>. Sole's main area of expertise is in <a href = "https://www.wis.ewi.tudelft.nl/information-retrieval/"> Information Retrieval </a> with emphasis on non-traditional populations. Her current research work focuses on understanding the limitations and designing algorithmic support so that information access systems (search and recommender tools) can better serve all users (e.g., children) in different contexts (e.g., the classroom). 
+ of the Faculty of Electrical Engineering, Mathematics and Computer Science (EWI), <a href = "https://www.tudelft.nl/en/">Delft University of Technology</a>. Sole's main area of expertise is in <a href = "https://www.wis.ewi.tudelft.nl/information-retrieval/"> Information Retrieval and Recommender Systems </a> with emphasis on non-traditional populations. Her current research work focuses on understanding the limitations and designing algorithmic support so that information access systems (search and recommender tools) can better serve all users (e.g., children) in different contexts (e.g., the classroom). 
+<p>Since September of 2025, Sole serves as the <a href = "https://www.tudelft.nl/onderwijs/opleidingen/masters/dsait/msc-data-science-and-artificial-intelligence-technology"> Director of Studies for the MSc Data Science and Artificial Intelligence Technology </a> 
 <p>
 Sole is a co-PI in the ongoing SNSF-funded project <a href = "https://data.snf.ch/grants/grant/10000973"> “Scaffolding to foster independence when children search Online for Learning” (SOL)</a>. 
 <p>
