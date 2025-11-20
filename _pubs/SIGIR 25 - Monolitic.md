@@ -7,7 +7,7 @@ doi: 10.1145/3726302.3730199
 ---
 
 {: .citation}
-Robin Ungruh, Alejandro Bellogín, Maria Soledad Pera. 2025. ["From Monolith to Mosaic: Uncovering Behavioral Differences for Choice Models in Recommender Systems Simulations"](https://doi.org/10.1145/3726302.3730199). In <cite> Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval</cite>, pp. 2717–2722.
+Robin Ungruh, Alejandro Bellogín, Maria Soledad Pera. 2025. ["From Monolith to Mosaic: Uncovering Behavioral Differences for Choice Models in Recommender Systems Simulations"](#). In <cite> Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval</cite>, pp. 2717–2722.
 
 ## Abstract
 
