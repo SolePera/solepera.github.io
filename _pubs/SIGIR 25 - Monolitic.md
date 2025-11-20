@@ -1,6 +1,6 @@
 ---
 title: "From Monolith to Mosaic: Uncovering Behavioral Differences for Choice Models in Recommender Systems Simulations"
-date: 2025-10-07
+date: 2025-07-07
 project: 
 type: Conference
 doi: 10.1145/3726302.3730199
