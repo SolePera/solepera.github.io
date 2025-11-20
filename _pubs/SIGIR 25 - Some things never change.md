@@ -7,7 +7,7 @@ doi: 10.1145/3726302.3730270
 ---
 
 {: .citation}
-Robin Ungruh, Alejandro Bellogín, Maria Soledad Pera. 2025. ["Some Things Never Change: Overcoming Persistent Challenges in Children IR"](https://doi.org/10.1145/3726302.3730270). In <cite> Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval</cite>, pp. 3107–3109.
+Maria Soledad Pera, Theo Huibers, Emiliana Murgia, Monica Landoni. 2025. ["Some Things Never Change: Overcoming Persistent Challenges in Children IR"](https://doi.org/10.1145/3726302.3730270). In <cite> Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval</cite>, pp. 3107–3109.
 
 ## Abstract
 
