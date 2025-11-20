@@ -20,13 +20,13 @@ automatically takes care of laying out the alternating picture display.
 -   ![Hrishita Chakrabarti](../images/hrishita.png)
     {: .pic}
 
-    **Hrishita Chakrabarti** is a PhD candidate in the Web Information Systems group at TU Delft with Dr. Maria Soledad Pera as her supervisor. She received her B.Tech in Computer Science and Engineering from VIT Vellore and her MSc in Computer Science from TU Delft. For her master's thesis, <a href="https://repository.tudelft.nl/record/uuid:51442134-01c0-4e01-9ff3-6f7bbafdac14" target="_blank">Much ado about Accessibility </a>, she empirically explored the accessibility of responses of popular online information-seeking tools to autistic users.  As a part of the “Scaffolding to foster independence when children search Online for Learning” (SOL) project, her current research investigates the scaffolding needed in online search tools to improve search literacy skills in children as they search for information in a classroom setting.
+    **Hrishita Chakrabarti** is a PhD candidate in the Web Information Systems group at TU Delft, supervised by Dr. Maria Soledad Pera. She received her B.Tech in Computer Science and Engineering from VIT Vellore and her MSc in Computer Science from TU Delft. For her master's thesis, <a href="https://repository.tudelft.nl/record/uuid:51442134-01c0-4e01-9ff3-6f7bbafdac14" target="_blank">Much ado about Accessibility </a>, she empirically explored the accessibility of responses of popular online information-seeking tools to autistic users.  As a part of the “Scaffolding to foster independence when children search Online for Learning” (SOL) project, her current research investigates the scaffolding needed in online search tools to improve search literacy skills in children as they search for information in a classroom setting.
     
 -   ![Robin Ungruh](../images/RobinUngruh.jpg)
     {: .pic}
 
     **Robin Ungruh** is PhD candidate in the Web Information Systems group at TU Delft, supervised by Dr. Maria Soledad Pera. He obtained a BSc in Human-Computer-Interaction from the University of Hamburg and an MSc in Human-Computer-Interaction from Utrecht University. 
-His research is centered on unraveling the complexities of children's interactions with recommender systems, aiming to understand their experiences and developing methods to ensure safe interactions within this vulnerable user group.
+His research is centered on unraveling the complexities of children's interactions with recommender systems, aiming to understand their experiences and develop methods to ensure safe interactions within this vulnerable user group.
 
 ## Alumni
 **Alisa Rieger (Ph.D.)** *Striving for Responsible Opinion Formation in Web Search on Debated Topics*<a href="https://research.tudelft.nl/en/publications/striving-for-responsible-opinion-formation-in-web-search-on-debat/" target="_blank"><img src="../images/thesisIcon.png" alt="Link to Thesis/Dissertation"  height="30" width="30"/></a>
@@ -69,5 +69,5 @@ His research is centered on unraveling the complexities of children's interactio
 
 **Abel Almeida (B.Sc.)**
 
-** Students from the CAST project:  <a href="https://cast.boisestate.edu/about/people/" target="_blank"><img src="../images/CastLogo.png" alt="Link to CAST"  height="30" width="30" /></a>
+**Students from the CAST project**  <a href="https://cast.boisestate.edu/about/people/" target="_blank"><img src="../images/CastLogo.png" alt="Link to CAST"  height="30" width="30" /></a>
 
