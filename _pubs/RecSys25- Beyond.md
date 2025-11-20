@@ -7,7 +7,7 @@ doi: 10.48550/arXiv.2509.09414
 ---
 
 {: .citation}  
-Alan Said, Maria Soledad Pera, and Michael D. Ekstrand. 2025. ["We’re Still Doing It (All) Wrong: Recommender Systems, Fifteen Years Later"](#). In <cite> Beyond Algorithms: Reclaiming the Interdisciplinary Roots of Recommender Systems Workshop (BEYOND 2025), at ACM RecSys 2025. CEUR Workshop Proceedings Vol. 4063<\cite>. DOI:10.48550/arXiv.2509.09414.
+Alan Said, Maria Soledad Pera, and Michael D. Ekstrand. 2025. ["We’re Still Doing It (All) Wrong: Recommender Systems, Fifteen Years Later"](#). In <cite> Beyond Algorithms: Reclaiming the Interdisciplinary Roots of Recommender Systems Workshop (BEYOND 2025), at ACM RecSys 2025. CEUR Workshop Proceedings Vol. 4063</cite>. DOI:10.48550/arXiv.2509.09414.
 
 ## Abstract  
 
