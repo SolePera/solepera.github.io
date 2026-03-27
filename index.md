@@ -20,8 +20,10 @@ Dr. Maria Soledad Pera is an Associate Professor at the <a href = "https://www.w
 She was also recently named  (with George Neville-Neil) Co-Chair of the newly-instituted  <a href = "https://www.acm.org/articles/people-of-acm/2026/sole-pera">ACM Globalization Board</a>. 
 <p>
     <p>
-Sole is a co-PI in the ongoing SNSF-funded project <a href = "https://data.snf.ch/grants/grant/10000973"> “Scaffolding to foster independence when children search Online for Learning” (SOL)</a>. 
+Sole is a co-PI in the ongoing <a href = "https://data.snf.ch/grants/grant/10000973"> SNSF-funded </a> project <a href = "https://solandchildren.wordpress.com/"> “Scaffolding to foster independence when children search Online for Learning” (SOL)</a>. 
 <p>
+
+
     
 Prior to joining TU Delft, Sole (a native of Argentina) completed Ph.D. in Computer Science at Brigham Young University in 2014. She joined the Computer Science Department at Boise State University as an Assistant Professor in 2014, where she was promoted to Associate Professor with Tenure in 2019. While at Boise State, Sole was  a co-PI in the NSF-funded project <a href = "https://cast.boisestate.edu/"> CAST (Child Adaptive Search Tool)</a>. She was the co-director of the <a href = "http://piret.info/">People and Information Research Team (Piret)</a> alongside  <a href = "https://md.ekstrandom.net/">Dr. Michael Ekstrand</a>. </p>
 
