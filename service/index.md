@@ -12,6 +12,8 @@ Please see below for a selection of recent leadership and management activities
 <h2>Conference Organization</h2>
 <ul>
 <ul>
+<li>RecSys 2026 - <a href="[https://cikm2026.diag.uniroma1.it/](https://recsys.acm.org/recsys26/)"> Women in RecSys Event Chair </a></li>
+<li>CIKM 2026 - <a href="https://cikm2026.diag.uniroma1.it/"> Workshop Chair </a></li>
 <li>UMAP 2026 - <a href="https://www.um.org/umap2026/"> Workshop and Tutorial Chair </a></li>
 <li>RecSys 2025 - <a href="https://recsys.acm.org/recsys25/"> Program Chair </a></li>
 <li>CIKM 2024 - <a href="https://idc.acm.org/2024/"> Program Chair </a></li>
@@ -52,6 +54,7 @@ Please see below for a selection of recent leadership and management activities
 <ul>
 <ul>
 <li>2nd workshop on Information Retrieval for Understudied Users (IR4U2)  in conjunction with ACM SIGIR 2025. ( <a href ="https://ir4u2workshop.wixsite.com/ir4u2-2">site</a>)</li>
+  <li>AltRecSys Workshop on Alternative, Unexpected, and Critical Ideas in Recommendation (AltRecSys) in conjunction with RecSys `24. ( <a href ="https://altrecsys.github.io/">site</a>)</li>
 <li>1st workshop on Information Retrieval for Understudied Users (IR4U2) in conjunction with ECIR `24. ( <a href ="https://ir4u2workshop.wixsite.com/ir4u2">site</a>)</li>
 <li>6th International Workshop on Children and Recommender Systems (KidRec) in conjunction with IDC '22 Interaction Design and Children. ( <a href ="https://kidrec.github.io/">site</a>)</li>
 <li>IR for Children:2000-2020. Where are they now? in conjunction with ACM SIGIR 21. (<a href ="http://www.fab4.science/IR4Kids/">site</a> )</li>
@@ -66,6 +69,8 @@ Please see below for a selection of recent leadership and management activities
 <h2>Other activities</h2>
 <ul>
 <ul>
+  <li> Associate Editor
+  <a href="https://dl.acm.org/journal/tors"> ACM Transactions on Recommender Systems (2026-present) </a></li>
   <li> Chair of the 
   <a href="https://sigir.org/general-information/travel-grants/"> SIGIR Student Travel Program (2023-2026) </a></li>
   <li> Co-Editor for the special issue of the International Journal of Human-Computer Studies focused on
