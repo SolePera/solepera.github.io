@@ -17,7 +17,7 @@ Dr. Maria Soledad Pera is an Associate Professor at the <a href = "https://www.w
  of the Faculty of Electrical Engineering, Mathematics and Computer Science (EWI), <a href = "https://www.tudelft.nl/en/">Delft University of Technology</a>. Sole's main area of expertise is in <a href = "https://www.wis.ewi.tudelft.nl/information-retrieval/"> Information Retrieval and Recommender Systems </a> with emphasis on non-traditional populations. Her current research work focuses on understanding the limitations and designing algorithmic support so that information access systems (search and recommender tools) can better serve all users (e.g., children) in different contexts (e.g., the classroom). 
 <p>Since September of 2025, Sole serves as the <a href = "https://www.tudelft.nl/onderwijs/opleidingen/masters/dsait/msc-data-science-and-artificial-intelligence-technology"> Director of Studies for the MSc Data Science and Artificial Intelligence Technology </a> 
 <p>
-She was also recently named  (with George Neville-Neil) Co-Chair of the newly-instituted  <a href = "https://www.acm.org/articles/people-of-acm/2026/sole-pera">ACM Globalization Board</a>. 
+She was also recently named with George Neville-Neil Co-Chair of the newly instituted  <a href = "https://www.acm.org/articles/people-of-acm/2026/sole-pera">ACM Globalization Board</a>. 
 <p>
     <p>
 Sole is a co-PI in the ongoing <a href = "https://data.snf.ch/grants/grant/10000973"> SNSF-funded </a> project <a href = "https://solandchildren.wordpress.com/"> “Scaffolding to foster independence when children search Online for Learning” (SOL)</a>. 
