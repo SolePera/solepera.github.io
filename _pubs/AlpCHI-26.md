@@ -6,7 +6,7 @@ type: paper
 doi: 
 ---
 {: .citation}  
-Diletta Micol Tobia, Hrishita Chakrabarti, Maria Soledad Pera and Monica Landoni. 2026. ["From Search for Children to Children as Searchers"](#). In <cite> Human-Computer Interaction (HCI) conference of the Alpine region (AlpChi’26).</cite>. 
+Diletta Micol Tobia, Hrishita Chakrabarti, Maria Soledad Pera and Monica Landoni. 2026. ["From Search for Children to Children as Searchers"](#). In <cite> Human-Computer Interaction (HCI) conference of the Alpine region (AlpChi’26).</cite>
 
 ## Abstract  
 Search engines increasingly influence children’s learning. Yet most of these systems continue to treat them as miniature adults rather than developing learners. Building on previous child-oriented In formation Retrieval and Child-Computer Interaction literature, our work aims at redefining the role of children as active searchers, integrating the principles of scaffolding and Search-as-Learning. 

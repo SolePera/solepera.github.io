@@ -1,16 +1,16 @@
 ---
-title: "The Impact of Mainstream-Driven Algorithms on Recommendations for Children"
-date: 2025-04-04
+title: "Query Performance Prediction Using a Child-Focused Definition of Relevance"
+date: 2026-04-04
 project: ir-kids
 type: paper
-doi: 10.1007/978-3-031-88714-7_5
+doi: 10.1007/978-3-032-21300-6_29
 ---
 {: .citation}  
-Robin Ungruh, Alejandro Bellogín, and Maria Soledad Pera. 2025. ["The Impact of Mainstream-Driven Algorithms on Recommendations for Children"](#). In <cite> Advances in Information Retrieval – 47th European Conference on Information Retrieval (ECIR 2025), Lecture Notes in Computer Science Volume 15574, pp. 67–84. Springer</cite>. DOI:[10.1007/978-3-031-88714-7_5](https://doi.org/10.1007/978-3-031-88714-7_5).
+Hrishita Chakrabarti and Maria Soledad Pera. 2026. ["Query Performance Prediction Using a Child-Focused Definition of Relevance"](#). In <cite> Advances in Information Retrieval – 48th European Conference on Information Retrieval (ECIR 2026), Lecture Notes in Computer Science Volume 16484, pp. 388–399. Springer</cite>. DOI:[10.1007/978-3-032-21300-6_29](https://doi.org/10.1007/978-3-032-21300-6_29).
 
 ## Abstract  
-Recommendation algorithms are often trained using data sources reflecting the interactions of a broad user base. As a result, the dominant preferences of the majority may overshadow those of other groups with unique interests. This is something performance analyses of recommendation algorithms typically fail to capture, prompting us to investigate how well recommendations align with preferences of the overall population but also specifically a “non-mainstream” user group: children—an audience frequently exposed to recommender systems but rarely prioritized. Using music and movie datasets, we examine the differences in genre preferences between Children and Mainstream Users. We then explore the degree to which (genre) consumption patterns of a mainstream group impact the recommendations classical algorithms offer children. Our findings highlight prominent differences in consumption patterns between Children and Mainstream Users; they also reflect that children’s recommendations are impacted by the preference of user groups with deviating consumption habits. Surprisingly, despite being under-represented, children do not necessarily receive poorer recommendations. Further, our results demonstrate that tailoring training specifically to children does not always enhance personalization for them. These findings prompt reflections and discussion on how recommender systems can better meet the needs of understudied user groups. 
+Query performance prediction (QPP) methods have primarily been tailored to mainstream users, thus relying on the traditional concept of relevance. In the case of children, however, relevance goes beyond content-based resource-query matching, which is why we gauge the performance of existing QPP methods in estimating the fit of resources retrieved in response to child-formulated queries. Outcomes from our empirical exploration of various QPP methods using a traditional and a child-focused definition of relevance on 2 datasets reveal the limitations in the adaptability of existing methods to the context of child information retrieval.
 
 ## Links  
-* [Publisher chapter link](https://link.springer.com/chapter/10.1007/978-3-031-88714-7_5)  
-* [Institutional repository version](https://repository.tudelft.nl/record/uuid%3Aa9c46cef-a8b7-45b6-8e1b-fbc6b7d41f7f)  
+* [Publisher chapter link](https://link.springer.com/chapter/10.1007/978-3-032-21300-6_29)  
+
