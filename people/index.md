@@ -30,7 +30,7 @@ automatically takes care of laying out the alternating picture display.
 -   ![Robin Ungruh](../images/RobinUngruh.jpg)
     {: .pic}
 
-    **Robin Ungruh** is PhD candidate in the Web Information Systems group at TU Delft, supervised by Dr. Maria Soledad Pera. He obtained a BSc in Human-Computer-Interaction from the University of Hamburg and an MSc in Human-Computer-Interaction from Utrecht University. 
+    **Robin Ungruh** is a PhD candidate in the Web Information Systems group at TU Delft, supervised by Dr. Maria Soledad Pera. He obtained a BSc in Human-Computer-Interaction from the University of Hamburg and an MSc in Human-Computer-Interaction from Utrecht University. 
 His research is centered on unraveling the complexities of children's interactions with recommender systems, aiming to understand their experiences and develop methods to ensure safe interactions within this vulnerable user group.
 
 ## Alumni
