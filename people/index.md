@@ -17,6 +17,11 @@ automatically takes care of laying out the alternating picture display.
 {:/comment}
 
 {: .student-list}
+-   ![Merel Steenbergen](../images/merel.png)
+    {: .pic}
+
+    **Merel Steenbergen** is PhD a candidate in the Web Information Systems group at TU Delft, supervised by Dr. Maria Soledad Pera.  Her research focuses on supporting educators to improve the teamwork skills of Computer Science students. She is on the intersection of the diverging research fields of Education and Computer Science. TU Delft is her home turf, since she obtained both the BSc Computer Science and Engineering and the MSc Computer Science here. During those degrees, she had various side projects and jobs involved in education, showing why this PhD is a natural next step in following that passion. 
+    
 -   ![Hrishita Chakrabarti](../images/hrishita.png)
     {: .pic}
 
