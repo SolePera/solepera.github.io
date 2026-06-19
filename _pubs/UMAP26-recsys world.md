@@ -1,18 +1,15 @@
 ---
-title: "From Search for Children to Children as Searchers"
-date: 2026-02-02
+title: "It is relevant, but is it useful?"
+date: 2026-06-08
 project: ir-kids
 type: paper
-doi: 
+doi: 10.1145/3774935.3806167
 ---
 {: .citation}  
-Diletta Micol Tobia, Hrishita Chakrabarti, Maria Soledad Pera and Monica Landoni. 2026. ["From Search for Children to Children as Searchers"](#). In <cite> Human-Computer Interaction (HCI) conference of the Alpine region (AlpChi’26).</cite>
+Hrishita Chakrabarti, Diletta Micol Tobia, Giulia Allen, Monica Landoni, and Maria Soledad Pera. 2026. #. In <cite> Proceedings of the 34th ACM Conference on User Modeling, Adaptation and Personalization (UMAP ’26), June 8–11, 2026, Gothenburg, Sweden. ACM </cite>. DOI:https://doi.org/10.1145/3774935.3806167.
 
 ## Abstract  
-Search engines increasingly influence children’s learning. Yet most of these systems continue to treat them as miniature adults rather than developing learners. Building on previous child-oriented In formation Retrieval and Child-Computer Interaction literature, our work aims at redefining the role of children as active searchers, integrating the principles of scaffolding and Search-as-Learning. 
+The traditional Information Retrieval (IR) evaluation framework—anchored in topical relevance and relevance-based metrics—reflects a system-centred perspective. However, for specific user groups such as children, relevance alone is insufficient. This work examines the importance of extending traditional evaluation approaches with a human-centred perspective that accounts for how children interpret and assess information. Through empirical analysis using a child-focused dataset, multiple ranking strategies, and both traditional and extended evaluation frameworks, results reveal the limitations of relevance-based metrics and the benefits of approaches tailored to children’s needs, paving the way for more inclusive IR evaluation. 
 
 ## Links  
-* [Publisher chapter link](https://alpchi.org/wp-content/uploads/2026/02/AlpCHI2026_From_Search_for_Children_to_Children_as_Searchers.pdf)  
- 
-
-
+* [Publisher paper link](https://dl.acm.org/doi/10.1145/3774935.3806167)
