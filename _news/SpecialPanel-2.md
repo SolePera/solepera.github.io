@@ -1,10 +1,10 @@
 ---
 
-title: "Special panel on child safety online"
-link: "https://digital-strategy.ec.europa.eu/en/policies/panel-child-safety-online"
-picture: ../images/SpecialPanel.jpg
-date: 2026-02-2
+title: "2nd meeting of Special Panel to advise President von der Leyen on child online safety"
+link: "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_831"
+picture: ../images/SpecialPanel2.jpg
+date: 2026-03-3
 ---
 
-## https://digital-strategy.ec.europa.eu/en/policies/panel-child-safety-online
+## https://ec.europa.eu/commission/presscorner/detail/en/ip_26_831
 
