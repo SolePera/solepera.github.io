@@ -12,12 +12,8 @@ toc: true
 # Awards
 <hr>
 <br>
-<br>
-<a href="https://recsys.acm.org/recsys26/women-in-recsys/#content-tab-1-2-tab">Women In RecSys - Journal Paper of the Year Awards "De-centering the (Traditional) user: Multistakeholder evaluation of recommender systems. International Journal of Human-Computer Studies" </a> </a>
+<a href="https://recsys.acm.org/recsys26/women-in-recsys/#content-tab-1-2-tab">Women In RecSys - Journal Paper of the Year Awards "De-centering the (Traditional) user: Multistakeholder evaluation of recommender systems. International Journal of Human-Computer Studies" </a> 
 <hr>
-<br>
-<hr>
-<br>
 <br>
 <a href="https://www.youtube.com/watch?v=hY7nlkXJb5Q&list=PLaZufLfJumb_-DzL9TYZwDS3sN4oznEia&index=62">Women In RecSys - Journal Paper of the Year Awards "Mirror, Mirror: Exploring Stereotype Presence Among Top-N Recommendations That May Reach Children" </a> <a href="https://www.youtube.com/watch?v=hY7nlkXJb5Q&list=PLaZufLfJumb_-DzL9TYZwDS3sN4oznEia&index=62"><img src="../images/videoIcon.png" alt="presentation video"  height="30" width="30" /></a>
 <hr>
