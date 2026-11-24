@@ -13,7 +13,7 @@ toc: true
 <hr>
 <br>
 <br>
-<a [href="https://recsys.acm.org/recsys26/women-in-recsys/#content-tab-1-2-tab">Women In RecSys - Journal Paper of the Year Awards "De-centering the (Traditional) user: Multistakeholder evaluation of recommender systems. International Journal of Human-Computer Studies" </a> </a>
+<a href="https://recsys.acm.org/recsys26/women-in-recsys/#content-tab-1-2-tab">Women In RecSys - Journal Paper of the Year Awards "De-centering the (Traditional) user: Multistakeholder evaluation of recommender systems. International Journal of Human-Computer Studies" </a> </a>
 <hr>
 <br>
 <hr>
